@@ -33,53 +33,68 @@ namespace ndn {
 class Performance
 {
 public:
-  Performance(){}
+  Performance() 
+    : m_duration_sum(0), m_nohit_times(0) {
+  }
   
-  void
-  onNewSegment(Producer& p, Data& data)
-  {
-    if (data.getName().get(-1).toSegment() == 1) // because [0] is the manifest which comes later
-    {
+  void onNewSegment(Producer& p, Data& data) {
+    std::cout << "on New Segment " << std::endl;
+    if (data.getName().get(-1).toSegment() == 0) {       
+      std::cout << "record start time " << std::endl;
       m_segmentationStart = time::system_clock::now();
     }
   }
   
-  void
-  onSegmentFinalized(Producer& p, Data& data)
-  {
+  void onSegmentFinalized(Producer& p, Data& data) {
     std::cout << "Segment No. " << data.getName().get(-1).toSegment() << std::endl;
     m_segmentationStop = time::system_clock::now();
   }
 
-  ndn::time::steady_clock::TimePoint::clock::duration
-  getSegmentationDuration()
-  {
+  ndn::time::steady_clock::TimePoint::clock::duration getSegmentationDuration() {
     return m_segmentationStop - m_segmentationStart;
   }
    
-  void
-  onInterest(Producer& p, const Interest& interest)
-  {
+  void onInterest(Producer& p, const Interest& interest) {
     std::cout << "Entering " << interest.toUri() << std::endl;
   }
-  
+
+  void onCache(Producer& p, const Interest& interest) {
+    std::cout << "Cache Miss - Start " << interest.toUri() << std::endl;
+    uint8_t* content = new uint8_t[CONTENT_LENGTH];
+    p.produce(Name(), content, CONTENT_LENGTH);
+    m_duration_sum += getSegmentationDuration(); 
+    m_nohit_times++;
+    std::cout << "**************************************************************" << std::endl;
+    std::cout << "Cache Miss - Finish Times " << m_nohit_times << std::endl; 
+    std::cout << "This Time Segmentation duration " << getSegmentationDuration() <<std::endl;
+    std::cout << "The whole segmentation duration " << m_duration_sum <<std::endl;
+  }  
+
 private:
   time::system_clock::TimePoint m_segmentationStart;
   time::system_clock::TimePoint m_segmentationStop;
+  ndn::time::steady_clock::TimePoint::clock::duration m_duration_sum;
+  int m_nohit_times;
+  std::string m_suffix;
 };
 
-int
-main(int argc, char** argv)
-{
-  int buf_size = 0;
+int main(int argc, char** argv) {
+  int buf_size = 1;
+  std::string suffix = "1";
+  if (argc > 1) {
+    buf_size = atoi(argv[1]);
+    suffix = argv[1];
+  }
+
   Signer signer;
   Performance performance;
    
-  Name sampleName(PREFIX_NAME);
+  Name sampleName(PREFIX_NAME + suffix);
  
   Producer p(sampleName);
-  p.setContextOption(FAST_SIGNING, true);
-  p.setContextOption(SND_BUF_SIZE, 0);
+//  p.setContextOption(FAST_SIGNING, true);
+  p.setContextOption(SND_BUF_SIZE, buf_size);
+  p.setContextOption(DATA_FRESHNESS, 0);
   
   p.setContextOption(NEW_DATA_SEGMENT,
                 (ProducerDataCallback)bind(&Performance::onNewSegment, &performance, _1, _2));
@@ -93,13 +108,10 @@ main(int argc, char** argv)
   p.setContextOption(INTEREST_ENTER_CNTX,
                 (ProducerInterestCallback)bind(&Performance::onInterest, &performance, _1, _2));
   
+  p.setContextOption(CACHE_MISS,
+                (ProducerInterestCallback)bind(&Performance::onCache, &performance, _1, _2));
   p.attach();
     
-  uint8_t* content = new uint8_t[CONTENT_LENGTH];
-  p.produce(Name(), content, CONTENT_LENGTH);
-    
-  std::cout << "**************************************************************" << std::endl;
-  std::cout << "Manifest segmentation duration " << performance.getSegmentationDuration() << std::endl;
     
   sleep(500);
   
@@ -108,8 +120,6 @@ main(int argc, char** argv)
 
 } // namespace ndn
 
-int
-main(int argc, char** argv)
-{
+int main(int argc, char** argv) {
   return ndn::main(argc, argv);
 }

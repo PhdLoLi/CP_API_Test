@@ -32,41 +32,33 @@ namespace ndn {
 class Performance
 {
 public:
-  Performance()
-  : m_byteCounter(0)
-  {}
+  Performance() : m_byteCounter(0) {
+  }
   
-  void
-  onInterestLeaves(Consumer& c, Interest& interest)
-  {
+  void onInterestLeaves(Consumer& c, Interest& interest) {
     std::cout << "Leaving: " << interest.toUri() << std::endl;
   }
 
-  void
-  onDataEnters(Consumer& c, const Data& data)
-  {
-    std::cout << "DATA IN" << data.getName() << std::endl;
-    if (data.getName().get(-1).toSegment() == 1) // because [0] is the manifest which comes later
-    {
+  void onDataEnters(Consumer& c, const Data& data) {
+    std::cout << "DATA IN Segment No. " << data.getName().get(-1).toSegment() << std::endl;
+    std::cout << "FinalBlockId: " << data.getFinalBlockId() << std::endl;
+    if (data.getName().get(-1).toSegment() == 0) {
+      std::cout << "Record Start Time Here!" << std::endl;
       m_reassemblyStart = time::system_clock::now();
     }
   }
 
-  void
-  onContent(Consumer& c, const uint8_t* buffer, size_t bufferSize)
-  {
+  void onContent(Consumer& c, const uint8_t* buffer, size_t bufferSize) {
     m_byteCounter += bufferSize;
-    std::cout << "GOT" << m_byteCounter << " BYTES" << std::endl;
+    std::cout << "GOT " << m_byteCounter << " BYTES" << std::endl;
     if (m_byteCounter == CONTENT_LENGTH)
     {
-      std::cout << "DONE" << std::endl;
-      m_reassemblyStop = time::system_clock::now();
+    std::cout << "DONE" << std::endl;
+    m_reassemblyStop = time::system_clock::now();
     }
   }
 
-  ndn::time::steady_clock::TimePoint::clock::duration
-  getReassemblyDuration()
-  {
+  ndn::time::steady_clock::TimePoint::clock::duration getReassemblyDuration() {
     return m_reassemblyStop - m_reassemblyStart;
   }
   
@@ -77,10 +69,15 @@ private:
 };
 
 int main(int argc, char** argv) { 
+  std::string suffix = "1";
+  if (argc > 1) {
+    suffix = argv[1];
+  }
+
   Verificator verificator;
   Performance performance;
   
-  Name sampleName(PREFIX_NAME);
+  Name sampleName(PREFIX_NAME + suffix);
   
   Consumer c(sampleName, RDR);
   c.setContextOption(MUST_BE_FRESH_S, true);
@@ -100,7 +97,7 @@ int main(int argc, char** argv) {
   c.consume(Name());
     
   std::cout << "**************************************************************" << std::endl;
-  std::cout << "Manifest reassembly duration" << performance.getReassemblyDuration() << std::endl;
+  std::cout << "Reassembly duration " << performance.getReassemblyDuration() << std::endl;
   
   return 0;
 }

@@ -4,6 +4,7 @@
  */
 #pragma once
 #include "key.hpp"
+
 namespace ndn {
 class Signer
 {

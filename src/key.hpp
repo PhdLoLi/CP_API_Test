@@ -8,6 +8,5 @@
 #include <ndn-cxx/security/validator.hpp>
 #include <ndn-cxx/util/time.hpp>
 #define IDENTITY_NAME "/Lijing/TEST"
-#define CONTENT_LENGTH 1*1024*1024
+#define CONTENT_LENGTH 1720*100
 #define PREFIX_NAME "/Lijing/Time/Space"
-
