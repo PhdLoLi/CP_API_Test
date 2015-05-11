@@ -51,7 +51,7 @@ public:
   void onContent(Consumer& c, const uint8_t* buffer, size_t bufferSize) {
     m_byteCounter += bufferSize;
     std::cout << "GOT " << m_byteCounter << " BYTES" << std::endl;
-    if (m_byteCounter == CONTENT_LENGTH)
+    if (m_byteCounter == CONTENT_LENGTH*20)
     {
     std::cout << "DONE" << std::endl;
     m_reassemblyStop = time::system_clock::now();
@@ -71,7 +71,7 @@ private:
 int main(int argc, char** argv) { 
   std::string suffix = "1";
   if (argc > 1) {
-    suffix = argv[1];
+    suffix = argv[2];
   }
 
   Verificator verificator;
@@ -81,6 +81,10 @@ int main(int argc, char** argv) {
   
   Consumer c(sampleName, RDR);
   c.setContextOption(MUST_BE_FRESH_S, true);
+  c.setContextOption(INTEREST_RETX, 1000);
+  c.setContextOption(INTEREST_LIFETIME, 20000);
+  c.setContextOption(MAX_WINDOW_SIZE, 1);
+  c.setContextOption(MIN_WINDOW_SIZE, 1);
     
   c.setContextOption(DATA_ENTER_CNTX,
               (ConsumerDataCallback)bind(&Performance::onDataEnters, &performance, _1, _2));
@@ -94,8 +98,9 @@ int main(int argc, char** argv) {
   c.setContextOption(CONTENT_RETRIEVED,
               (ConsumerContentCallback)bind(&Performance::onContent, &performance, _1, _2, _3));               
     
-  c.consume(Name());
-    
+  for (int i = 0; i < 20; i++) {
+   c.consume(Name(std::to_string(i)));
+  }  
   std::cout << "**************************************************************" << std::endl;
   std::cout << "Reassembly duration " << performance.getReassemblyDuration() << std::endl;
   

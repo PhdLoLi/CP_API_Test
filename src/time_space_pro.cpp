@@ -61,7 +61,9 @@ public:
   void onCache(Producer& p, const Interest& interest) {
     std::cout << "Cache Miss - Start " << interest.toUri() << std::endl;
     uint8_t* content = new uint8_t[CONTENT_LENGTH];
-    p.produce(Name(), content, CONTENT_LENGTH);
+    std::string frame = interest.getName().get(-2).toUri();
+    std::cout << "frame number " << frame << std::endl;
+    p.produce(Name(frame), content, CONTENT_LENGTH);
     m_duration_sum += getSegmentationDuration(); 
     m_nohit_times++;
     std::cout << "**************************************************************" << std::endl;
@@ -81,9 +83,9 @@ private:
 int main(int argc, char** argv) {
   int buf_size = 1;
   std::string suffix = "1";
-  if (argc > 1) {
+  if (argc > 2) {
     buf_size = atoi(argv[1]);
-    suffix = argv[1];
+    suffix = argv[2];
   }
 
   Signer signer;
@@ -94,7 +96,7 @@ int main(int argc, char** argv) {
   Producer p(sampleName);
 //  p.setContextOption(FAST_SIGNING, true);
   p.setContextOption(SND_BUF_SIZE, buf_size);
-  p.setContextOption(DATA_FRESHNESS, 0);
+//  p.setContextOption(DATA_FRESHNESS, 30);
   
   p.setContextOption(NEW_DATA_SEGMENT,
                 (ProducerDataCallback)bind(&Performance::onNewSegment, &performance, _1, _2));
