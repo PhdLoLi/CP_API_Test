@@ -38,15 +38,15 @@ public:
   }
   
   void onNewSegment(Producer& p, Data& data) {
-    std::cout << "on New Segment " << std::endl;
+//    std::cout << "on New Segment " << std::endl;
     if (data.getName().get(-1).toSegment() == 0) {       
-      std::cout << "record start time " << std::endl;
+//      std::cout << "record start time " << std::endl;
       m_segmentationStart = time::system_clock::now();
     }
   }
   
   void onSegmentFinalized(Producer& p, Data& data) {
-    std::cout << "Segment No. " << data.getName().get(-1).toSegment() << std::endl;
+//    std::cout << "Segment No. " << data.getName().get(-1).toSegment() << std::endl;
     m_segmentationStop = time::system_clock::now();
   }
 
@@ -59,6 +59,7 @@ public:
   }
 
   void onCache(Producer& p, const Interest& interest) {
+    std::cout << "**************************************************************" << std::endl;
     std::cout << "Cache Miss - Start " << interest.toUri() << std::endl;
     uint8_t* content = new uint8_t[CONTENT_LENGTH];
     std::string frame = interest.getName().get(-2).toUri();
@@ -66,10 +67,10 @@ public:
     p.produce(Name(frame), content, CONTENT_LENGTH);
     m_duration_sum += getSegmentationDuration(); 
     m_nohit_times++;
-    std::cout << "**************************************************************" << std::endl;
     std::cout << "Cache Miss - Finish Times " << m_nohit_times << std::endl; 
     std::cout << "This Time Segmentation duration " << getSegmentationDuration() <<std::endl;
     std::cout << "The whole segmentation duration " << m_duration_sum <<std::endl;
+    std::cout << "**************************************************************" << std::endl;
   }  
 
 private:

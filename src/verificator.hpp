@@ -21,7 +21,7 @@ public:
   {
     if (Validator::verifySignature(data, *m_publicKey))
     {
-      std::cout << "VERIFIED " << data.getName() << std::endl;
+//      std::cout << "VERIFIED " << data.getName() << std::endl;
       return true;
     }
     else
