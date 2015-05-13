@@ -67,7 +67,6 @@ void test(int argc, char** argv) {
     if (argc > 2)
       window_size = atoi(argv[2]);
   }
-  std::cout << "window_size " << window_size << std::endl;
 
   Verificator verificator;
   Performance performance;
@@ -114,11 +113,11 @@ void test(int argc, char** argv) {
         break;
       } 
     }
-    int end = vec_segments[ran] + window_size < 30 ? vec_segments[ran] + window_size : 30;  
 
+    uint64_t end = vec_segments[ran] + window_size < 30 ? vec_segments[ran] + window_size : 30;  
 
     for (uint64_t j = vec_segments[ran]; j < end; j++) {
-      std::cout << "frame:" << ran << " segment: " << j << std::endl;
+      std::cout<<"i:" << i << " frame:" << ran << " segment: " << j << std::endl;
       i++;
 //      name::Component::fromSegment(j); 
       c.consume(Name(std::to_string(ran)).append(name::Component::fromSegment(j)));
@@ -129,8 +128,8 @@ void test(int argc, char** argv) {
   stop = time::system_clock::now();
   duration = stop - start;
 
-  std::cout << "DONE" << std::endl;
   std::cout << "*************************************************************" << std::endl;
+  std::cout << "Window Size " << window_size << std::endl;
   std::cout << "Final duration " << duration <<std::endl;
    
 }

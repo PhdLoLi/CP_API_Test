@@ -64,7 +64,8 @@ public:
     std::cout << "Cache Miss - Start " << interest.toUri() << std::endl;
     uint8_t* content = new uint8_t[CONTENT_LENGTH];
     std::string frame = interest.getName().get(-2).toUri();
-    std::cout << "frame number " << frame << std::endl;
+    uint64_t segment = interest.getName().get(-1).toSegment();
+    std::cout << "frame:" << frame << " segment:" << segment << std::endl;
 
     m_segmentationStart = time::system_clock::now();
 

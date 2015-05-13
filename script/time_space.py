@@ -24,5 +24,5 @@ for i in range(1, 3):
     else:
         buf_size /= 2
 
-    time.sleep(60)
+#    time.sleep(60)
 
