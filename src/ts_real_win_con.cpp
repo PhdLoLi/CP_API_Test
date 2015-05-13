@@ -24,6 +24,11 @@
 // correct way to include ndn-cxx headers
 // #include <ndn-cxx/contexts/producer-context.hpp>
 #include "verificator.hpp"
+#include <vector>
+#include <cstdlib>
+#include <time.h>
+#include <thread>
+#include <chrono>
 
 // Enclosing code in ndn simplifies coding (can also use `using namespace ndn`)
 namespace ndn {
@@ -32,7 +37,7 @@ namespace ndn {
 class Performance
 {
 public:
-  Performance() : m_byteCounter(0), m_duration_sum(0) {
+  Performance() : m_byteCounter(0) {
   }
   
   void onInterestLeaves(Consumer& c, Interest& interest) {
@@ -40,56 +45,36 @@ public:
   }
 
   void onDataEnters(Consumer& c, const Data& data) {
-    std::cout << "DATA IN Segment No. " << data.getName().get(-1).toSegment() << std::endl;
-    std::cout << "FinalBlockId: " << data.getFinalBlockId() << std::endl;
-    if (data.getName().get(-1).toSegment() == 0) {
-      std::cout << "Record Start Time Here!" << std::endl;
-      m_reassemblyStart = time::system_clock::now();
-    }
   }
 
   void onContent(Consumer& c, const uint8_t* buffer, size_t bufferSize) {
     m_byteCounter += bufferSize;
-    std::cout << "GOT " << m_byteCounter << " BYTES" << std::endl;
-    m_reassemblyStop = time::system_clock::now();
-    m_duration_sum += getReassemblyDuration(); 
-
-    std::cout << "****************    **********************    *****************" << std::endl;
-    std::cout << "This Time Reassemble duration " << getReassemblyDuration() <<std::endl;
-    std::cout << "The whole Reassemble duration " << m_duration_sum <<std::endl;
-
- 
-    if (m_byteCounter == CONTENT_LENGTH*20)
-    {
-    std::cout << "DONE" << std::endl;
-    std::cout << "*************************************************************" << std::endl;
-    std::cout << "Final Reassemble duration " << m_duration_sum <<std::endl;
-    }
-  }
-
-  ndn::time::steady_clock::TimePoint::clock::duration getReassemblyDuration() {
-    return m_reassemblyStop - m_reassemblyStart;
+//    std::cout << "GOT " << m_byteCounter << " BYTES" << std::endl;
   }
   
 private:
   uint32_t m_byteCounter;
-  time::system_clock::TimePoint m_reassemblyStart;
-  time::system_clock::TimePoint m_reassemblyStop;
-  ndn::time::steady_clock::TimePoint::clock::duration m_duration_sum;
 };
 
-int main(int argc, char** argv) { 
+void test(int argc, char** argv) { 
+  
+  auto t1 = std::chrono::high_resolution_clock::now();
+  int window_size = 8;
+
   std::string suffix = "1";
   if (argc > 1) {
     suffix = argv[1];
+    if (argc > 2)
+      window_size = atoi(argv[2]);
   }
+  std::cout << "window_size " << window_size << std::endl;
 
   Verificator verificator;
   Performance performance;
   
   Name sampleName(PREFIX_NAME + suffix);
   
-  Consumer c(sampleName, RDR);
+  Consumer c(sampleName, SDR);
   c.setContextOption(MUST_BE_FRESH_S, true);
   c.setContextOption(INTEREST_RETX, 1000);
   c.setContextOption(INTEREST_LIFETIME, 20000);
@@ -107,12 +92,47 @@ int main(int argc, char** argv) {
     
   c.setContextOption(CONTENT_RETRIEVED,
               (ConsumerContentCallback)bind(&Performance::onContent, &performance, _1, _2, _3));               
-    
-  for (int i = 0; i < 20; i++) {
-   c.consume(Name(std::to_string(i)));
+  
+//  std::vector<bool> vec(20, false);  
+  std::vector<int> vec_segments(20, 0);
+  int ran = -1; 
+  int i = 0;
+
+  time::system_clock::TimePoint start;
+  time::system_clock::TimePoint stop;
+  ndn::time::steady_clock::TimePoint::clock::duration duration;
+
+  // start counting time
+  start = time::system_clock::now();
+
+  while (i < 20 * 30) {
+    while (1) { 
+      auto t2 = std::chrono::high_resolution_clock::now();
+      srand(std::chrono::duration_cast<std::chrono::nanoseconds>(t2 - t1).count());
+      ran = rand() % 20;
+      if (vec_segments[ran] < 30) {
+        break;
+      } 
+    }
+    int end = vec_segments[ran] + window_size < 30 ? vec_segments[ran] + window_size : 30;  
+
+
+    for (uint64_t j = vec_segments[ran]; j < end; j++) {
+      std::cout << "frame:" << ran << " segment: " << j << std::endl;
+      i++;
+//      name::Component::fromSegment(j); 
+      c.consume(Name(std::to_string(ran)).append(name::Component::fromSegment(j)));
+    } 
+    vec_segments[ran] = end;
   }  
+  // stop counting time
+  stop = time::system_clock::now();
+  duration = stop - start;
+
+  std::cout << "DONE" << std::endl;
+  std::cout << "*************************************************************" << std::endl;
+  std::cout << "Final duration " << duration <<std::endl;
    
-  return 0;
 }
 
 } // namespace ndn
@@ -120,5 +140,14 @@ int main(int argc, char** argv) {
 int
 main(int argc, char** argv)
 {
-  return ndn::main(argc, argv);
+  ndn::test(argc, argv);
+//  std::vector<std::thread *> threads;
+//  for (int i = 0; i < 5; i++) {
+////    usleep(100);
+//    if (i == 4) ndn::output = true;
+//    threads.push_back(new std::thread(ndn::test, argc, argv));
+//  }
+//  for (int i = 0; i < 5; i++)
+//    threads[i]->join();
+  return 0;
 }

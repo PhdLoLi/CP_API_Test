@@ -24,6 +24,11 @@
 // correct way to include ndn-cxx headers
 // #include <ndn-cxx/contexts/producer-context.hpp>
 #include "verificator.hpp"
+#include <vector>
+#include <cstdlib>
+#include <time.h>
+#include <thread>
+#include <chrono>
 
 // Enclosing code in ndn simplifies coding (can also use `using namespace ndn`)
 namespace ndn {
@@ -36,14 +41,14 @@ public:
   }
   
   void onInterestLeaves(Consumer& c, Interest& interest) {
-    std::cout << "Leaving: " << interest.toUri() << std::endl;
+//    std::cout << "Leaving: " << interest.toUri() << std::endl;
   }
 
   void onDataEnters(Consumer& c, const Data& data) {
-    std::cout << "DATA IN Segment No. " << data.getName().get(-1).toSegment() << std::endl;
-    std::cout << "FinalBlockId: " << data.getFinalBlockId() << std::endl;
+//    std::cout << "DATA IN Segment No. " << data.getName().get(-1).toSegment() << std::endl;
+//    std::cout << "FinalBlockId: " << data.getFinalBlockId() << std::endl;
     if (data.getName().get(-1).toSegment() == 0) {
-      std::cout << "Record Start Time Here!" << std::endl;
+//      std::cout << "Record Start Time Here!" << std::endl;
       m_reassemblyStart = time::system_clock::now();
     }
   }
@@ -61,9 +66,9 @@ public:
  
     if (m_byteCounter == CONTENT_LENGTH*20)
     {
-    std::cout << "DONE" << std::endl;
-    std::cout << "*************************************************************" << std::endl;
-    std::cout << "Final Reassemble duration " << m_duration_sum <<std::endl;
+      std::cout << "DONE" << std::endl;
+      std::cout << "*************************************************************" << std::endl;
+      std::cout << "Final Reassemble duration " << m_duration_sum <<std::endl;
     }
   }
 
@@ -78,7 +83,10 @@ private:
   ndn::time::steady_clock::TimePoint::clock::duration m_duration_sum;
 };
 
-int main(int argc, char** argv) { 
+void test(int argc, char** argv) { 
+  
+  auto t1 = std::chrono::high_resolution_clock::now();
+
   std::string suffix = "1";
   if (argc > 1) {
     suffix = argv[1];
@@ -89,7 +97,7 @@ int main(int argc, char** argv) {
   
   Name sampleName(PREFIX_NAME + suffix);
   
-  Consumer c(sampleName, RDR);
+  Consumer c(sampleName, SDR);
   c.setContextOption(MUST_BE_FRESH_S, true);
   c.setContextOption(INTEREST_RETX, 1000);
   c.setContextOption(INTEREST_LIFETIME, 20000);
@@ -107,12 +115,24 @@ int main(int argc, char** argv) {
     
   c.setContextOption(CONTENT_RETRIEVED,
               (ConsumerContentCallback)bind(&Performance::onContent, &performance, _1, _2, _3));               
-    
-  for (int i = 0; i < 20; i++) {
-   c.consume(Name(std::to_string(i)));
+  
+  std::vector<bool> vec(20, false);  
+  std::vector<int> vec_segments(20, 0);
+  int ran = -1; 
+  for (int i = 0; i < 20 * 30; i++) {
+    while (1) { 
+      auto t2 = std::chrono::high_resolution_clock::now();
+      srand(std::chrono::duration_cast<std::chrono::nanoseconds>(t2 - t1).count());
+      ran = rand() % 20;
+      if (vec_segments[ran] < 30) {
+        break;
+      } 
+    }     
+    std::cout << "frame:" << ran << " segment: " << vec_segments[ran] << std::endl; 
+    c.consume(Name(std::to_string(ran)).append(name::Component::fromSegment(vec_segments[ran])));
+    vec_segments[ran]++;
   }  
    
-  return 0;
 }
 
 } // namespace ndn
@@ -120,5 +140,14 @@ int main(int argc, char** argv) {
 int
 main(int argc, char** argv)
 {
-  return ndn::main(argc, argv);
+  ndn::test(argc, argv);
+//  std::vector<std::thread *> threads;
+//  for (int i = 0; i < 5; i++) {
+////    usleep(100);
+//    if (i == 4) ndn::output = true;
+//    threads.push_back(new std::thread(ndn::test, argc, argv));
+//  }
+//  for (int i = 0; i < 5; i++)
+//    threads[i]->join();
+  return 0;
 }

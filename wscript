@@ -63,6 +63,19 @@ def build(bld):
     source= "src/ts_random_con.cpp",
     use='NDN_CXX',
     )
+    
+    bld(target="ts_real_ran_con",
+    features=["cxx", "cxxprogram"],
+    source= "src/ts_real_ran_con.cpp",
+    use='NDN_CXX',
+    )
+
+    bld(target="ts_real_win_con",
+    features=["cxx", "cxxprogram"],
+    source= "src/ts_real_win_con.cpp",
+    use='NDN_CXX',
+    )
+
     # Tests
 #    bld.recurse('tests')
 

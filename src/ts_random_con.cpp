@@ -59,9 +59,9 @@ public:
     m_reassemblyStop = time::system_clock::now();
     m_duration_sum += getReassemblyDuration(); 
 
-//    std::cout << "****************    **********************    *****************" << std::endl;
-//    std::cout << "This Time Reassemble duration " << getReassemblyDuration() <<std::endl;
-//    std::cout << "The whole Reassemble duration " << m_duration_sum <<std::endl;
+    std::cout << "****************    **********************    *****************" << std::endl;
+    std::cout << "This Time Reassemble duration " << getReassemblyDuration() <<std::endl;
+    std::cout << "The whole Reassemble duration " << m_duration_sum <<std::endl;
 
  
     if (m_byteCounter == CONTENT_LENGTH*20)
@@ -89,7 +89,7 @@ void test(int argc, char** argv) {
 
   std::string suffix = "1";
   if (argc > 1) {
-    suffix = argv[2];
+    suffix = argv[1];
   }
 
   Verificator verificator;
