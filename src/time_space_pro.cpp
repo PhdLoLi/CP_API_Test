@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
   Name sampleName(PREFIX_NAME + suffix);
  
   Producer p(sampleName);
-  p.setContextOption(FAST_SIGNING, true);
+//  p.setContextOption(FAST_SIGNING, true);
   p.setContextOption(SND_BUF_SIZE, buf_size);
 //  p.setContextOption(DATA_FRESHNESS, 30);
   
