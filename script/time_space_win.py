@@ -13,15 +13,32 @@ while buf_size >= 1 :
         ran = random.randint(1, 1000000) 
         os.system('nohup ../build/time_space_pro %s %s > ../result/real_buf%s_win%s_pro &'%(buf_size, ran, buf_size, win_size))
         os.system('../build/ts_real_win_con %s %s > ../result/real_buf%s_win%s_con'%(ran, win_size, buf_size, win_size))
+        
+        with open('../result/real_buf%s_win%s_pro'%(buf_size, win_size), "rb") as f:
+            first = f.readline()     # Read the first line.
+            f.seek(-2, 2)            # Jump to the second last byte.
+            while f.read(1) != "\n": # Until EOL is found...
+                f.seek(-2, 1)        # ...jump back the read byte plus one more.
+            last = f.readline() 
+        f.close()
 
-        f = open('pylog', 'a')
+        res = open('res.csv', 'a')
+        res.write(str(buf_size))
+        res.write(',')
+        res.write(str(win_size))
+        res.write(',')
+        res.write(last)
+        res.close()
+        
+        pylog = open('pylog', 'a')
         dt = datetime.now()
-        f.write(dt.strftime("%A, %d. %B %Y %I:%M%p"));
-        f.write('\nbuf_size\t')
-        f.write(str(buf_size))
-        f.write('\nwin_size\t')
-        f.write(str(win_size))
-        f.write('\n')
+        pylog.write(dt.strftime("%A, %d. %B %Y %I:%M%p"));
+        pylog.write('\nbuf_size\t')
+        pylog.write(str(buf_size))
+        pylog.write('\nwin_size\t')
+        pylog.write(str(win_size))
+        pylog.write('\n')
+        pylog.close()
 
         win_size /= 2 
 
@@ -30,5 +47,6 @@ while buf_size >= 1 :
     else:
         buf_size /= 2
 
+os.system('python read_line.py')
 #       time.sleep(60)
 

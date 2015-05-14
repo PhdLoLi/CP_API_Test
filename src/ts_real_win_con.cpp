@@ -86,8 +86,8 @@ void test(int argc, char** argv) {
   c.setContextOption(INTEREST_LEAVE_CNTX,
                 (ConsumerInterestCallback)bind(&Performance::onInterestLeaves, &performance, _1, _2));
 
-  c.setContextOption(DATA_TO_VERIFY,
-              (ConsumerDataVerificationCallback)bind(&Verificator::onPacket, &verificator, _1, _2));
+//  c.setContextOption(DATA_TO_VERIFY,
+//              (ConsumerDataVerificationCallback)bind(&Verificator::onPacket, &verificator, _1, _2));
     
   c.setContextOption(CONTENT_RETRIEVED,
               (ConsumerContentCallback)bind(&Performance::onContent, &performance, _1, _2, _3));               

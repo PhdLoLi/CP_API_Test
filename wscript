@@ -3,10 +3,13 @@ VERSION = '0.1'
 APPNAME = 'CP_API_Test'
 
 from waflib import Build, Logs, Utils, Task, TaskGen, Configure
+from waflib import Options
 
 def options(opt):
     opt.load('compiler_c compiler_cxx gnu_dirs')
     opt.load('boost default-compiler-flags', tooldir=['.waf-tools'])
+
+    opt.add_option('-l', '--log', dest="log", default='', help='log level', action='store')
 
     ropt = opt.add_option_group('con_pro_repo Options')
 
@@ -36,6 +39,8 @@ def configure(conf):
     if conf.env['WITH_TESTS']:
         USED_BOOST_LIBS += ['unit_test_framework']
     conf.check_boost(lib=USED_BOOST_LIBS, mandatory=True)
+
+    _enable_log(conf)       #log level
 
     try:
         conf.load("doxygen")
@@ -85,3 +90,21 @@ def build(bld):
 #    bld.recurse("examples")
 
 #    bld.install_files('${SYSCONFDIR}/ndn', 'repo-ng.conf.sample')
+def _enable_log(conf):
+    if Options.options.log == 'trace':
+        Logs.pprint("PINK", "Log level set to trace")
+        conf.env.append_value("CFLAGS", "-DLOG_LEVEL=6")
+        conf.env.append_value("CXXFLAGS", "-DLOG_LEVEL=6")
+    elif Options.options.log == 'debug':
+        Logs.pprint("PINK", "Log level set to debug")
+        conf.env.append_value("CFLAGS", "-DLOG_LEVEL=5")
+        conf.env.append_value("CXXFLAGS", "-DLOG_LEVEL=5")
+    elif Options.options.log == 'info':
+        Logs.pprint("PINK", "Log level set to info")
+        conf.env.append_value("CFLAGS", "-DLOG_LEVEL=4")
+        conf.env.append_value("CXXFLAGS", "-DLOG_LEVEL=4")
+    elif Options.options.log == '':
+        pass
+    else:
+        Logs.pprint("PINK", "unsupported log level")
+

@@ -33,6 +33,7 @@ namespace ndn {
 class Performance
 {
 public:
+
   Performance() 
     : m_duration_sum(0), m_nohit_times(0), m_entering_times(0) {
   }
@@ -55,17 +56,18 @@ public:
   }
    
   void onInterest(Producer& p, const Interest& interest) {
-    std::cout << "Entering " << interest.toUri() << std::endl;
+    LOG_DEBUG("Entering %s", interest.toUri().c_str());
+    //std::cout << "Entering " << interest.toUri() << std::endl;
     m_entering_times++;
   }
 
   void onCache(Producer& p, const Interest& interest) {
-    std::cout << "**************************************************************" << std::endl;
-    std::cout << "Cache Miss - Start " << interest.toUri() << std::endl;
+    LOG_DEBUG("**************************************************************");
+    LOG_DEBUG("Cache Miss - Start %s", interest.toUri().c_str());
     uint8_t* content = new uint8_t[CONTENT_LENGTH];
     std::string frame = interest.getName().get(-2).toUri();
     uint64_t segment = interest.getName().get(-1).toSegment();
-    std::cout << "frame:" << frame << " segment:" << segment << std::endl;
+    LOG_DEBUG("frame:%s segment:%llu", frame.c_str(), segment);
 
     m_segmentationStart = time::system_clock::now();
 
@@ -76,11 +78,17 @@ public:
     m_duration_sum += getSegmentationDuration(); 
 
     m_nohit_times++;
-    std::cout << "Cache Miss - Finish Times " << m_nohit_times << std::endl; 
-    std::cout << "This Time Segmentation duration " << getSegmentationDuration() <<std::endl;
-    std::cout << "The whole segmentation duration " << m_duration_sum <<std::endl;
-    std::cout << "**************************************************************" << std::endl;
+//    LOG_INFO("%d,%llu", m_nohit_times, m_duration_sum.count() / 1000000);
+    std::cout << m_nohit_times << "," << m_duration_sum.count() / 1000000 << std::endl;
+    LOG_DEBUG("Cache Miss - Finish Times %d", m_nohit_times);
+    LOG_DEBUG("This Time Segmentation duration %llu", getSegmentationDuration().count());
+    LOG_DEBUG("The whole segmentation duration %llu", m_duration_sum.count());
+    LOG_DEBUG("**************************************************************");
   }  
+
+  int getCacheMissTimes() {
+    return m_nohit_times;
+  }
 
 private:
   time::system_clock::TimePoint m_segmentationStart;
@@ -105,7 +113,7 @@ int main(int argc, char** argv) {
   Name sampleName(PREFIX_NAME + suffix);
  
   Producer p(sampleName);
-//  p.setContextOption(FAST_SIGNING, true);
+  p.setContextOption(FAST_SIGNING, true);
   p.setContextOption(SND_BUF_SIZE, buf_size);
 //  p.setContextOption(DATA_FRESHNESS, 30);
   
