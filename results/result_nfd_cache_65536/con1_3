@@ -1,0 +1,3 @@
+16
+libc++abi.dylib: terminating with uncaught exception of type ndn::Transport::Error: error while receiving data from socket (End of file)
+cket (End of file)

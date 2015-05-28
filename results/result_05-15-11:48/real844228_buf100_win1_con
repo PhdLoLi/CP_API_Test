@@ -1,0 +1,1203 @@
+i:0 frame:13 segment: 0
+Leaving: /Lijing/Time/Space844228/13/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:1 frame:9 segment: 0
+Leaving: /Lijing/Time/Space844228/9/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:2 frame:18 segment: 0
+Leaving: /Lijing/Time/Space844228/18/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:3 frame:10 segment: 0
+Leaving: /Lijing/Time/Space844228/10/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:4 frame:16 segment: 0
+Leaving: /Lijing/Time/Space844228/16/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:5 frame:7 segment: 0
+Leaving: /Lijing/Time/Space844228/7/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:6 frame:2 segment: 0
+Leaving: /Lijing/Time/Space844228/2/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:7 frame:11 segment: 0
+Leaving: /Lijing/Time/Space844228/11/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:8 frame:9 segment: 1
+Leaving: /Lijing/Time/Space844228/9/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:9 frame:14 segment: 0
+Leaving: /Lijing/Time/Space844228/14/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:10 frame:4 segment: 0
+Leaving: /Lijing/Time/Space844228/4/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:11 frame:3 segment: 0
+Leaving: /Lijing/Time/Space844228/3/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:12 frame:10 segment: 1
+Leaving: /Lijing/Time/Space844228/10/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:13 frame:6 segment: 0
+Leaving: /Lijing/Time/Space844228/6/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:14 frame:18 segment: 1
+Leaving: /Lijing/Time/Space844228/18/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:15 frame:15 segment: 0
+Leaving: /Lijing/Time/Space844228/15/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:16 frame:16 segment: 1
+Leaving: /Lijing/Time/Space844228/16/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:17 frame:14 segment: 1
+Leaving: /Lijing/Time/Space844228/14/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:18 frame:1 segment: 0
+Leaving: /Lijing/Time/Space844228/1/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:19 frame:11 segment: 1
+Leaving: /Lijing/Time/Space844228/11/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:20 frame:0 segment: 0
+Leaving: /Lijing/Time/Space844228/0/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:21 frame:12 segment: 0
+Leaving: /Lijing/Time/Space844228/12/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:22 frame:17 segment: 0
+Leaving: /Lijing/Time/Space844228/17/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:23 frame:17 segment: 1
+Leaving: /Lijing/Time/Space844228/17/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:24 frame:5 segment: 0
+Leaving: /Lijing/Time/Space844228/5/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:25 frame:16 segment: 2
+Leaving: /Lijing/Time/Space844228/16/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:26 frame:1 segment: 1
+Leaving: /Lijing/Time/Space844228/1/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:27 frame:13 segment: 1
+Leaving: /Lijing/Time/Space844228/13/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:28 frame:6 segment: 1
+Leaving: /Lijing/Time/Space844228/6/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:29 frame:1 segment: 2
+Leaving: /Lijing/Time/Space844228/1/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:30 frame:13 segment: 2
+Leaving: /Lijing/Time/Space844228/13/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:31 frame:16 segment: 3
+Leaving: /Lijing/Time/Space844228/16/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:32 frame:10 segment: 2
+Leaving: /Lijing/Time/Space844228/10/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:33 frame:14 segment: 2
+Leaving: /Lijing/Time/Space844228/14/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:34 frame:12 segment: 1
+Leaving: /Lijing/Time/Space844228/12/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:35 frame:1 segment: 3
+Leaving: /Lijing/Time/Space844228/1/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:36 frame:10 segment: 3
+Leaving: /Lijing/Time/Space844228/10/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:37 frame:18 segment: 2
+Leaving: /Lijing/Time/Space844228/18/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:38 frame:12 segment: 2
+Leaving: /Lijing/Time/Space844228/12/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:39 frame:11 segment: 2
+Leaving: /Lijing/Time/Space844228/11/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:40 frame:10 segment: 4
+Leaving: /Lijing/Time/Space844228/10/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:41 frame:2 segment: 1
+Leaving: /Lijing/Time/Space844228/2/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:42 frame:15 segment: 1
+Leaving: /Lijing/Time/Space844228/15/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:43 frame:6 segment: 2
+Leaving: /Lijing/Time/Space844228/6/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:44 frame:16 segment: 4
+Leaving: /Lijing/Time/Space844228/16/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:45 frame:15 segment: 2
+Leaving: /Lijing/Time/Space844228/15/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:46 frame:2 segment: 2
+Leaving: /Lijing/Time/Space844228/2/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:47 frame:12 segment: 3
+Leaving: /Lijing/Time/Space844228/12/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:48 frame:3 segment: 1
+Leaving: /Lijing/Time/Space844228/3/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:49 frame:2 segment: 3
+Leaving: /Lijing/Time/Space844228/2/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:50 frame:7 segment: 1
+Leaving: /Lijing/Time/Space844228/7/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:51 frame:8 segment: 0
+Leaving: /Lijing/Time/Space844228/8/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:52 frame:6 segment: 3
+Leaving: /Lijing/Time/Space844228/6/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:53 frame:16 segment: 5
+Leaving: /Lijing/Time/Space844228/16/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:54 frame:5 segment: 1
+Leaving: /Lijing/Time/Space844228/5/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:55 frame:10 segment: 5
+Leaving: /Lijing/Time/Space844228/10/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:56 frame:17 segment: 2
+Leaving: /Lijing/Time/Space844228/17/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:57 frame:11 segment: 3
+Leaving: /Lijing/Time/Space844228/11/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:58 frame:9 segment: 2
+Leaving: /Lijing/Time/Space844228/9/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:59 frame:15 segment: 3
+Leaving: /Lijing/Time/Space844228/15/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:60 frame:14 segment: 3
+Leaving: /Lijing/Time/Space844228/14/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:61 frame:3 segment: 2
+Leaving: /Lijing/Time/Space844228/3/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:62 frame:7 segment: 2
+Leaving: /Lijing/Time/Space844228/7/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:63 frame:10 segment: 6
+Leaving: /Lijing/Time/Space844228/10/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:64 frame:6 segment: 4
+Leaving: /Lijing/Time/Space844228/6/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:65 frame:3 segment: 3
+Leaving: /Lijing/Time/Space844228/3/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:66 frame:12 segment: 4
+Leaving: /Lijing/Time/Space844228/12/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:67 frame:14 segment: 4
+Leaving: /Lijing/Time/Space844228/14/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:68 frame:19 segment: 0
+Leaving: /Lijing/Time/Space844228/19/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:69 frame:4 segment: 1
+Leaving: /Lijing/Time/Space844228/4/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:70 frame:8 segment: 1
+Leaving: /Lijing/Time/Space844228/8/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:71 frame:10 segment: 7
+Leaving: /Lijing/Time/Space844228/10/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:72 frame:5 segment: 2
+Leaving: /Lijing/Time/Space844228/5/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:73 frame:5 segment: 3
+Leaving: /Lijing/Time/Space844228/5/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:74 frame:2 segment: 4
+Leaving: /Lijing/Time/Space844228/2/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:75 frame:0 segment: 1
+Leaving: /Lijing/Time/Space844228/0/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:76 frame:15 segment: 4
+Leaving: /Lijing/Time/Space844228/15/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:77 frame:7 segment: 3
+Leaving: /Lijing/Time/Space844228/7/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:78 frame:1 segment: 4
+Leaving: /Lijing/Time/Space844228/1/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:79 frame:13 segment: 3
+Leaving: /Lijing/Time/Space844228/13/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:80 frame:6 segment: 5
+Leaving: /Lijing/Time/Space844228/6/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:81 frame:1 segment: 5
+Leaving: /Lijing/Time/Space844228/1/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:82 frame:16 segment: 6
+Leaving: /Lijing/Time/Space844228/16/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:83 frame:19 segment: 1
+Leaving: /Lijing/Time/Space844228/19/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:84 frame:15 segment: 5
+Leaving: /Lijing/Time/Space844228/15/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:85 frame:7 segment: 4
+Leaving: /Lijing/Time/Space844228/7/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:86 frame:1 segment: 6
+Leaving: /Lijing/Time/Space844228/1/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:87 frame:10 segment: 8
+Leaving: /Lijing/Time/Space844228/10/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:88 frame:10 segment: 9
+Leaving: /Lijing/Time/Space844228/10/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:89 frame:18 segment: 3
+Leaving: /Lijing/Time/Space844228/18/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:90 frame:8 segment: 2
+Leaving: /Lijing/Time/Space844228/8/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:91 frame:11 segment: 4
+Leaving: /Lijing/Time/Space844228/11/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:92 frame:1 segment: 7
+Leaving: /Lijing/Time/Space844228/1/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:93 frame:5 segment: 4
+Leaving: /Lijing/Time/Space844228/5/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:94 frame:10 segment: 10
+Leaving: /Lijing/Time/Space844228/10/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:95 frame:4 segment: 2
+Leaving: /Lijing/Time/Space844228/4/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:96 frame:6 segment: 6
+Leaving: /Lijing/Time/Space844228/6/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:97 frame:0 segment: 2
+Leaving: /Lijing/Time/Space844228/0/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:98 frame:15 segment: 6
+Leaving: /Lijing/Time/Space844228/15/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:99 frame:16 segment: 7
+Leaving: /Lijing/Time/Space844228/16/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:100 frame:13 segment: 4
+Leaving: /Lijing/Time/Space844228/13/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:101 frame:3 segment: 4
+Leaving: /Lijing/Time/Space844228/3/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:102 frame:8 segment: 3
+Leaving: /Lijing/Time/Space844228/8/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:103 frame:12 segment: 5
+Leaving: /Lijing/Time/Space844228/12/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:104 frame:15 segment: 7
+Leaving: /Lijing/Time/Space844228/15/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:105 frame:18 segment: 4
+Leaving: /Lijing/Time/Space844228/18/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:106 frame:7 segment: 5
+Leaving: /Lijing/Time/Space844228/7/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:107 frame:6 segment: 7
+Leaving: /Lijing/Time/Space844228/6/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:108 frame:17 segment: 3
+Leaving: /Lijing/Time/Space844228/17/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:109 frame:18 segment: 5
+Leaving: /Lijing/Time/Space844228/18/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:110 frame:13 segment: 5
+Leaving: /Lijing/Time/Space844228/13/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:111 frame:8 segment: 4
+Leaving: /Lijing/Time/Space844228/8/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:112 frame:12 segment: 6
+Leaving: /Lijing/Time/Space844228/12/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:113 frame:17 segment: 4
+Leaving: /Lijing/Time/Space844228/17/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:114 frame:6 segment: 8
+Leaving: /Lijing/Time/Space844228/6/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:115 frame:6 segment: 9
+Leaving: /Lijing/Time/Space844228/6/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:116 frame:8 segment: 5
+Leaving: /Lijing/Time/Space844228/8/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:117 frame:15 segment: 8
+Leaving: /Lijing/Time/Space844228/15/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:118 frame:7 segment: 6
+Leaving: /Lijing/Time/Space844228/7/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:119 frame:4 segment: 3
+Leaving: /Lijing/Time/Space844228/4/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:120 frame:5 segment: 5
+Leaving: /Lijing/Time/Space844228/5/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:121 frame:6 segment: 10
+Leaving: /Lijing/Time/Space844228/6/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:122 frame:5 segment: 6
+Leaving: /Lijing/Time/Space844228/5/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:123 frame:5 segment: 7
+Leaving: /Lijing/Time/Space844228/5/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:124 frame:7 segment: 7
+Leaving: /Lijing/Time/Space844228/7/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:125 frame:19 segment: 2
+Leaving: /Lijing/Time/Space844228/19/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:126 frame:7 segment: 8
+Leaving: /Lijing/Time/Space844228/7/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:127 frame:15 segment: 9
+Leaving: /Lijing/Time/Space844228/15/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:128 frame:2 segment: 5
+Leaving: /Lijing/Time/Space844228/2/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:129 frame:12 segment: 7
+Leaving: /Lijing/Time/Space844228/12/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:130 frame:14 segment: 5
+Leaving: /Lijing/Time/Space844228/14/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:131 frame:13 segment: 6
+Leaving: /Lijing/Time/Space844228/13/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:132 frame:16 segment: 8
+Leaving: /Lijing/Time/Space844228/16/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:133 frame:14 segment: 6
+Leaving: /Lijing/Time/Space844228/14/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:134 frame:0 segment: 3
+Leaving: /Lijing/Time/Space844228/0/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:135 frame:7 segment: 9
+Leaving: /Lijing/Time/Space844228/7/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:136 frame:12 segment: 8
+Leaving: /Lijing/Time/Space844228/12/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:137 frame:6 segment: 11
+Leaving: /Lijing/Time/Space844228/6/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:138 frame:13 segment: 7
+Leaving: /Lijing/Time/Space844228/13/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:139 frame:11 segment: 5
+Leaving: /Lijing/Time/Space844228/11/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:140 frame:5 segment: 8
+Leaving: /Lijing/Time/Space844228/5/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:141 frame:15 segment: 10
+Leaving: /Lijing/Time/Space844228/15/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:142 frame:7 segment: 10
+Leaving: /Lijing/Time/Space844228/7/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:143 frame:13 segment: 8
+Leaving: /Lijing/Time/Space844228/13/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:144 frame:10 segment: 11
+Leaving: /Lijing/Time/Space844228/10/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:145 frame:9 segment: 3
+Leaving: /Lijing/Time/Space844228/9/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:146 frame:0 segment: 4
+Leaving: /Lijing/Time/Space844228/0/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:147 frame:9 segment: 4
+Leaving: /Lijing/Time/Space844228/9/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:148 frame:4 segment: 4
+Leaving: /Lijing/Time/Space844228/4/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:149 frame:8 segment: 6
+Leaving: /Lijing/Time/Space844228/8/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:150 frame:19 segment: 3
+Leaving: /Lijing/Time/Space844228/19/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:151 frame:13 segment: 9
+Leaving: /Lijing/Time/Space844228/13/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:152 frame:11 segment: 6
+Leaving: /Lijing/Time/Space844228/11/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:153 frame:18 segment: 6
+Leaving: /Lijing/Time/Space844228/18/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:154 frame:18 segment: 7
+Leaving: /Lijing/Time/Space844228/18/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:155 frame:17 segment: 5
+Leaving: /Lijing/Time/Space844228/17/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:156 frame:12 segment: 9
+Leaving: /Lijing/Time/Space844228/12/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:157 frame:0 segment: 5
+Leaving: /Lijing/Time/Space844228/0/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:158 frame:0 segment: 6
+Leaving: /Lijing/Time/Space844228/0/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:159 frame:7 segment: 11
+Leaving: /Lijing/Time/Space844228/7/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:160 frame:7 segment: 12
+Leaving: /Lijing/Time/Space844228/7/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:161 frame:6 segment: 12
+Leaving: /Lijing/Time/Space844228/6/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:162 frame:9 segment: 5
+Leaving: /Lijing/Time/Space844228/9/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:163 frame:3 segment: 5
+Leaving: /Lijing/Time/Space844228/3/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:164 frame:12 segment: 10
+Leaving: /Lijing/Time/Space844228/12/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:165 frame:4 segment: 5
+Leaving: /Lijing/Time/Space844228/4/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:166 frame:19 segment: 4
+Leaving: /Lijing/Time/Space844228/19/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:167 frame:7 segment: 13
+Leaving: /Lijing/Time/Space844228/7/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:168 frame:6 segment: 13
+Leaving: /Lijing/Time/Space844228/6/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:169 frame:14 segment: 7
+Leaving: /Lijing/Time/Space844228/14/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:170 frame:12 segment: 11
+Leaving: /Lijing/Time/Space844228/12/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:171 frame:17 segment: 6
+Leaving: /Lijing/Time/Space844228/17/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:172 frame:7 segment: 14
+Leaving: /Lijing/Time/Space844228/7/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:173 frame:0 segment: 7
+Leaving: /Lijing/Time/Space844228/0/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:174 frame:6 segment: 14
+Leaving: /Lijing/Time/Space844228/6/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:175 frame:10 segment: 12
+Leaving: /Lijing/Time/Space844228/10/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:176 frame:7 segment: 15
+Leaving: /Lijing/Time/Space844228/7/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:177 frame:17 segment: 7
+Leaving: /Lijing/Time/Space844228/17/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:178 frame:17 segment: 8
+Leaving: /Lijing/Time/Space844228/17/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:179 frame:11 segment: 7
+Leaving: /Lijing/Time/Space844228/11/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:180 frame:4 segment: 6
+Leaving: /Lijing/Time/Space844228/4/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:181 frame:14 segment: 8
+Leaving: /Lijing/Time/Space844228/14/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:182 frame:4 segment: 7
+Leaving: /Lijing/Time/Space844228/4/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:183 frame:8 segment: 7
+Leaving: /Lijing/Time/Space844228/8/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:184 frame:1 segment: 8
+Leaving: /Lijing/Time/Space844228/1/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:185 frame:13 segment: 10
+Leaving: /Lijing/Time/Space844228/13/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:186 frame:2 segment: 6
+Leaving: /Lijing/Time/Space844228/2/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:187 frame:4 segment: 8
+Leaving: /Lijing/Time/Space844228/4/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:188 frame:9 segment: 6
+Leaving: /Lijing/Time/Space844228/9/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:189 frame:17 segment: 9
+Leaving: /Lijing/Time/Space844228/17/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:190 frame:10 segment: 13
+Leaving: /Lijing/Time/Space844228/10/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:191 frame:6 segment: 15
+Leaving: /Lijing/Time/Space844228/6/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:192 frame:4 segment: 9
+Leaving: /Lijing/Time/Space844228/4/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:193 frame:2 segment: 7
+Leaving: /Lijing/Time/Space844228/2/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:194 frame:5 segment: 9
+Leaving: /Lijing/Time/Space844228/5/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:195 frame:7 segment: 16
+Leaving: /Lijing/Time/Space844228/7/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:196 frame:6 segment: 16
+Leaving: /Lijing/Time/Space844228/6/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:197 frame:3 segment: 6
+Leaving: /Lijing/Time/Space844228/3/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:198 frame:16 segment: 9
+Leaving: /Lijing/Time/Space844228/16/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:199 frame:16 segment: 10
+Leaving: /Lijing/Time/Space844228/16/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:200 frame:10 segment: 14
+Leaving: /Lijing/Time/Space844228/10/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:201 frame:19 segment: 5
+Leaving: /Lijing/Time/Space844228/19/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:202 frame:5 segment: 10
+Leaving: /Lijing/Time/Space844228/5/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:203 frame:13 segment: 11
+Leaving: /Lijing/Time/Space844228/13/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:204 frame:14 segment: 9
+Leaving: /Lijing/Time/Space844228/14/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:205 frame:5 segment: 11
+Leaving: /Lijing/Time/Space844228/5/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:206 frame:17 segment: 10
+Leaving: /Lijing/Time/Space844228/17/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:207 frame:6 segment: 17
+Leaving: /Lijing/Time/Space844228/6/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:208 frame:6 segment: 18
+Leaving: /Lijing/Time/Space844228/6/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:209 frame:2 segment: 8
+Leaving: /Lijing/Time/Space844228/2/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:210 frame:0 segment: 8
+Leaving: /Lijing/Time/Space844228/0/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:211 frame:17 segment: 11
+Leaving: /Lijing/Time/Space844228/17/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:212 frame:9 segment: 7
+Leaving: /Lijing/Time/Space844228/9/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:213 frame:5 segment: 12
+Leaving: /Lijing/Time/Space844228/5/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:214 frame:4 segment: 10
+Leaving: /Lijing/Time/Space844228/4/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:215 frame:4 segment: 11
+Leaving: /Lijing/Time/Space844228/4/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:216 frame:3 segment: 7
+Leaving: /Lijing/Time/Space844228/3/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:217 frame:6 segment: 19
+Leaving: /Lijing/Time/Space844228/6/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:218 frame:14 segment: 10
+Leaving: /Lijing/Time/Space844228/14/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:219 frame:6 segment: 20
+Leaving: /Lijing/Time/Space844228/6/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:220 frame:15 segment: 11
+Leaving: /Lijing/Time/Space844228/15/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:221 frame:14 segment: 11
+Leaving: /Lijing/Time/Space844228/14/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:222 frame:11 segment: 8
+Leaving: /Lijing/Time/Space844228/11/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:223 frame:17 segment: 12
+Leaving: /Lijing/Time/Space844228/17/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:224 frame:3 segment: 8
+Leaving: /Lijing/Time/Space844228/3/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:225 frame:7 segment: 17
+Leaving: /Lijing/Time/Space844228/7/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:226 frame:8 segment: 8
+Leaving: /Lijing/Time/Space844228/8/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:227 frame:18 segment: 8
+Leaving: /Lijing/Time/Space844228/18/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:228 frame:15 segment: 12
+Leaving: /Lijing/Time/Space844228/15/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:229 frame:2 segment: 9
+Leaving: /Lijing/Time/Space844228/2/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:230 frame:0 segment: 9
+Leaving: /Lijing/Time/Space844228/0/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:231 frame:2 segment: 10
+Leaving: /Lijing/Time/Space844228/2/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:232 frame:5 segment: 13
+Leaving: /Lijing/Time/Space844228/5/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:233 frame:10 segment: 15
+Leaving: /Lijing/Time/Space844228/10/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:234 frame:17 segment: 13
+Leaving: /Lijing/Time/Space844228/17/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:235 frame:11 segment: 9
+Leaving: /Lijing/Time/Space844228/11/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:236 frame:2 segment: 11
+Leaving: /Lijing/Time/Space844228/2/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:237 frame:11 segment: 10
+Leaving: /Lijing/Time/Space844228/11/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:238 frame:6 segment: 21
+Leaving: /Lijing/Time/Space844228/6/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:239 frame:12 segment: 12
+Leaving: /Lijing/Time/Space844228/12/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:240 frame:11 segment: 11
+Leaving: /Lijing/Time/Space844228/11/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:241 frame:1 segment: 9
+Leaving: /Lijing/Time/Space844228/1/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:242 frame:6 segment: 22
+Leaving: /Lijing/Time/Space844228/6/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:243 frame:13 segment: 12
+Leaving: /Lijing/Time/Space844228/13/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:244 frame:3 segment: 9
+Leaving: /Lijing/Time/Space844228/3/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:245 frame:16 segment: 11
+Leaving: /Lijing/Time/Space844228/16/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:246 frame:7 segment: 18
+Leaving: /Lijing/Time/Space844228/7/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:247 frame:4 segment: 12
+Leaving: /Lijing/Time/Space844228/4/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:248 frame:2 segment: 12
+Leaving: /Lijing/Time/Space844228/2/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:249 frame:11 segment: 12
+Leaving: /Lijing/Time/Space844228/11/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:250 frame:2 segment: 13
+Leaving: /Lijing/Time/Space844228/2/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:251 frame:7 segment: 19
+Leaving: /Lijing/Time/Space844228/7/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:252 frame:15 segment: 13
+Leaving: /Lijing/Time/Space844228/15/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:253 frame:14 segment: 12
+Leaving: /Lijing/Time/Space844228/14/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:254 frame:2 segment: 14
+Leaving: /Lijing/Time/Space844228/2/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:255 frame:6 segment: 23
+Leaving: /Lijing/Time/Space844228/6/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:256 frame:8 segment: 9
+Leaving: /Lijing/Time/Space844228/8/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:257 frame:19 segment: 6
+Leaving: /Lijing/Time/Space844228/19/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:258 frame:11 segment: 13
+Leaving: /Lijing/Time/Space844228/11/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:259 frame:18 segment: 9
+Leaving: /Lijing/Time/Space844228/18/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:260 frame:11 segment: 14
+Leaving: /Lijing/Time/Space844228/11/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:261 frame:16 segment: 12
+Leaving: /Lijing/Time/Space844228/16/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:262 frame:8 segment: 10
+Leaving: /Lijing/Time/Space844228/8/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:263 frame:4 segment: 13
+Leaving: /Lijing/Time/Space844228/4/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:264 frame:18 segment: 10
+Leaving: /Lijing/Time/Space844228/18/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:265 frame:18 segment: 11
+Leaving: /Lijing/Time/Space844228/18/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:266 frame:6 segment: 24
+Leaving: /Lijing/Time/Space844228/6/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:267 frame:16 segment: 13
+Leaving: /Lijing/Time/Space844228/16/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:268 frame:12 segment: 13
+Leaving: /Lijing/Time/Space844228/12/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:269 frame:9 segment: 8
+Leaving: /Lijing/Time/Space844228/9/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:270 frame:7 segment: 20
+Leaving: /Lijing/Time/Space844228/7/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:271 frame:6 segment: 25
+Leaving: /Lijing/Time/Space844228/6/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:272 frame:0 segment: 10
+Leaving: /Lijing/Time/Space844228/0/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:273 frame:3 segment: 10
+Leaving: /Lijing/Time/Space844228/3/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:274 frame:2 segment: 15
+Leaving: /Lijing/Time/Space844228/2/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:275 frame:5 segment: 14
+Leaving: /Lijing/Time/Space844228/5/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:276 frame:17 segment: 14
+Leaving: /Lijing/Time/Space844228/17/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:277 frame:5 segment: 15
+Leaving: /Lijing/Time/Space844228/5/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:278 frame:9 segment: 9
+Leaving: /Lijing/Time/Space844228/9/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:279 frame:19 segment: 7
+Leaving: /Lijing/Time/Space844228/19/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:280 frame:6 segment: 26
+Leaving: /Lijing/Time/Space844228/6/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:281 frame:18 segment: 12
+Leaving: /Lijing/Time/Space844228/18/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:282 frame:7 segment: 21
+Leaving: /Lijing/Time/Space844228/7/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:283 frame:15 segment: 14
+Leaving: /Lijing/Time/Space844228/15/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:284 frame:2 segment: 16
+Leaving: /Lijing/Time/Space844228/2/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:285 frame:10 segment: 16
+Leaving: /Lijing/Time/Space844228/10/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:286 frame:13 segment: 13
+Leaving: /Lijing/Time/Space844228/13/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:287 frame:10 segment: 17
+Leaving: /Lijing/Time/Space844228/10/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:288 frame:19 segment: 8
+Leaving: /Lijing/Time/Space844228/19/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:289 frame:11 segment: 15
+Leaving: /Lijing/Time/Space844228/11/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:290 frame:15 segment: 15
+Leaving: /Lijing/Time/Space844228/15/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:291 frame:10 segment: 18
+Leaving: /Lijing/Time/Space844228/10/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:292 frame:19 segment: 9
+Leaving: /Lijing/Time/Space844228/19/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:293 frame:5 segment: 16
+Leaving: /Lijing/Time/Space844228/5/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:294 frame:15 segment: 16
+Leaving: /Lijing/Time/Space844228/15/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:295 frame:19 segment: 10
+Leaving: /Lijing/Time/Space844228/19/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:296 frame:9 segment: 10
+Leaving: /Lijing/Time/Space844228/9/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:297 frame:15 segment: 17
+Leaving: /Lijing/Time/Space844228/15/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:298 frame:10 segment: 19
+Leaving: /Lijing/Time/Space844228/10/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:299 frame:13 segment: 14
+Leaving: /Lijing/Time/Space844228/13/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:300 frame:14 segment: 13
+Leaving: /Lijing/Time/Space844228/14/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:301 frame:10 segment: 20
+Leaving: /Lijing/Time/Space844228/10/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:302 frame:16 segment: 14
+Leaving: /Lijing/Time/Space844228/16/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:303 frame:3 segment: 11
+Leaving: /Lijing/Time/Space844228/3/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:304 frame:9 segment: 11
+Leaving: /Lijing/Time/Space844228/9/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:305 frame:7 segment: 22
+Leaving: /Lijing/Time/Space844228/7/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:306 frame:14 segment: 14
+Leaving: /Lijing/Time/Space844228/14/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:307 frame:11 segment: 16
+Leaving: /Lijing/Time/Space844228/11/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:308 frame:4 segment: 14
+Leaving: /Lijing/Time/Space844228/4/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:309 frame:4 segment: 15
+Leaving: /Lijing/Time/Space844228/4/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:310 frame:9 segment: 12
+Leaving: /Lijing/Time/Space844228/9/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:311 frame:14 segment: 15
+Leaving: /Lijing/Time/Space844228/14/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:312 frame:4 segment: 16
+Leaving: /Lijing/Time/Space844228/4/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:313 frame:15 segment: 18
+Leaving: /Lijing/Time/Space844228/15/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:314 frame:15 segment: 19
+Leaving: /Lijing/Time/Space844228/15/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:315 frame:4 segment: 17
+Leaving: /Lijing/Time/Space844228/4/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:316 frame:5 segment: 17
+Leaving: /Lijing/Time/Space844228/5/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:317 frame:0 segment: 11
+Leaving: /Lijing/Time/Space844228/0/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:318 frame:7 segment: 23
+Leaving: /Lijing/Time/Space844228/7/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:319 frame:9 segment: 13
+Leaving: /Lijing/Time/Space844228/9/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:320 frame:0 segment: 12
+Leaving: /Lijing/Time/Space844228/0/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:321 frame:0 segment: 13
+Leaving: /Lijing/Time/Space844228/0/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:322 frame:7 segment: 24
+Leaving: /Lijing/Time/Space844228/7/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:323 frame:5 segment: 18
+Leaving: /Lijing/Time/Space844228/5/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:324 frame:2 segment: 17
+Leaving: /Lijing/Time/Space844228/2/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:325 frame:3 segment: 12
+Leaving: /Lijing/Time/Space844228/3/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:326 frame:4 segment: 18
+Leaving: /Lijing/Time/Space844228/4/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:327 frame:18 segment: 13
+Leaving: /Lijing/Time/Space844228/18/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:328 frame:18 segment: 14
+Leaving: /Lijing/Time/Space844228/18/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:329 frame:1 segment: 10
+Leaving: /Lijing/Time/Space844228/1/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:330 frame:14 segment: 16
+Leaving: /Lijing/Time/Space844228/14/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:331 frame:0 segment: 14
+Leaving: /Lijing/Time/Space844228/0/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:332 frame:12 segment: 14
+Leaving: /Lijing/Time/Space844228/12/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:333 frame:5 segment: 19
+Leaving: /Lijing/Time/Space844228/5/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:334 frame:8 segment: 11
+Leaving: /Lijing/Time/Space844228/8/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:335 frame:3 segment: 13
+Leaving: /Lijing/Time/Space844228/3/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:336 frame:15 segment: 20
+Leaving: /Lijing/Time/Space844228/15/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:337 frame:7 segment: 25
+Leaving: /Lijing/Time/Space844228/7/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:338 frame:18 segment: 15
+Leaving: /Lijing/Time/Space844228/18/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:339 frame:16 segment: 15
+Leaving: /Lijing/Time/Space844228/16/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:340 frame:0 segment: 15
+Leaving: /Lijing/Time/Space844228/0/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:341 frame:4 segment: 19
+Leaving: /Lijing/Time/Space844228/4/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:342 frame:10 segment: 21
+Leaving: /Lijing/Time/Space844228/10/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:343 frame:3 segment: 14
+Leaving: /Lijing/Time/Space844228/3/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:344 frame:7 segment: 26
+Leaving: /Lijing/Time/Space844228/7/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:345 frame:18 segment: 16
+Leaving: /Lijing/Time/Space844228/18/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:346 frame:17 segment: 15
+Leaving: /Lijing/Time/Space844228/17/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:347 frame:11 segment: 17
+Leaving: /Lijing/Time/Space844228/11/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:348 frame:5 segment: 20
+Leaving: /Lijing/Time/Space844228/5/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:349 frame:16 segment: 16
+Leaving: /Lijing/Time/Space844228/16/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:350 frame:11 segment: 18
+Leaving: /Lijing/Time/Space844228/11/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:351 frame:17 segment: 16
+Leaving: /Lijing/Time/Space844228/17/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:352 frame:13 segment: 15
+Leaving: /Lijing/Time/Space844228/13/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:353 frame:10 segment: 22
+Leaving: /Lijing/Time/Space844228/10/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:354 frame:10 segment: 23
+Leaving: /Lijing/Time/Space844228/10/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:355 frame:13 segment: 16
+Leaving: /Lijing/Time/Space844228/13/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:356 frame:9 segment: 14
+Leaving: /Lijing/Time/Space844228/9/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:357 frame:14 segment: 17
+Leaving: /Lijing/Time/Space844228/14/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:358 frame:19 segment: 11
+Leaving: /Lijing/Time/Space844228/19/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:359 frame:5 segment: 21
+Leaving: /Lijing/Time/Space844228/5/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:360 frame:8 segment: 12
+Leaving: /Lijing/Time/Space844228/8/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:361 frame:2 segment: 18
+Leaving: /Lijing/Time/Space844228/2/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:362 frame:0 segment: 16
+Leaving: /Lijing/Time/Space844228/0/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:363 frame:7 segment: 27
+Leaving: /Lijing/Time/Space844228/7/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:364 frame:7 segment: 28
+Leaving: /Lijing/Time/Space844228/7/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:365 frame:9 segment: 15
+Leaving: /Lijing/Time/Space844228/9/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:366 frame:16 segment: 17
+Leaving: /Lijing/Time/Space844228/16/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:367 frame:14 segment: 18
+Leaving: /Lijing/Time/Space844228/14/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:368 frame:15 segment: 21
+Leaving: /Lijing/Time/Space844228/15/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:369 frame:14 segment: 19
+Leaving: /Lijing/Time/Space844228/14/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:370 frame:2 segment: 19
+Leaving: /Lijing/Time/Space844228/2/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:371 frame:5 segment: 22
+Leaving: /Lijing/Time/Space844228/5/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:372 frame:8 segment: 13
+Leaving: /Lijing/Time/Space844228/8/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:373 frame:19 segment: 12
+Leaving: /Lijing/Time/Space844228/19/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:374 frame:10 segment: 24
+Leaving: /Lijing/Time/Space844228/10/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:375 frame:3 segment: 15
+Leaving: /Lijing/Time/Space844228/3/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:376 frame:5 segment: 23
+Leaving: /Lijing/Time/Space844228/5/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:377 frame:14 segment: 20
+Leaving: /Lijing/Time/Space844228/14/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:378 frame:13 segment: 17
+Leaving: /Lijing/Time/Space844228/13/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:379 frame:17 segment: 17
+Leaving: /Lijing/Time/Space844228/17/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:380 frame:18 segment: 17
+Leaving: /Lijing/Time/Space844228/18/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:381 frame:12 segment: 15
+Leaving: /Lijing/Time/Space844228/12/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:382 frame:15 segment: 22
+Leaving: /Lijing/Time/Space844228/15/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:383 frame:12 segment: 16
+Leaving: /Lijing/Time/Space844228/12/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:384 frame:16 segment: 18
+Leaving: /Lijing/Time/Space844228/16/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:385 frame:18 segment: 18
+Leaving: /Lijing/Time/Space844228/18/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:386 frame:8 segment: 14
+Leaving: /Lijing/Time/Space844228/8/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:387 frame:7 segment: 29
+Leaving: /Lijing/Time/Space844228/7/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:388 frame:17 segment: 18
+Leaving: /Lijing/Time/Space844228/17/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:389 frame:2 segment: 20
+Leaving: /Lijing/Time/Space844228/2/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:390 frame:17 segment: 19
+Leaving: /Lijing/Time/Space844228/17/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:391 frame:15 segment: 23
+Leaving: /Lijing/Time/Space844228/15/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:392 frame:2 segment: 21
+Leaving: /Lijing/Time/Space844228/2/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:393 frame:6 segment: 27
+Leaving: /Lijing/Time/Space844228/6/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:394 frame:13 segment: 18
+Leaving: /Lijing/Time/Space844228/13/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:395 frame:10 segment: 25
+Leaving: /Lijing/Time/Space844228/10/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:396 frame:3 segment: 16
+Leaving: /Lijing/Time/Space844228/3/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:397 frame:11 segment: 19
+Leaving: /Lijing/Time/Space844228/11/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:398 frame:0 segment: 17
+Leaving: /Lijing/Time/Space844228/0/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:399 frame:3 segment: 17
+Leaving: /Lijing/Time/Space844228/3/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:400 frame:5 segment: 24
+Leaving: /Lijing/Time/Space844228/5/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:401 frame:18 segment: 19
+Leaving: /Lijing/Time/Space844228/18/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:402 frame:13 segment: 19
+Leaving: /Lijing/Time/Space844228/13/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:403 frame:12 segment: 17
+Leaving: /Lijing/Time/Space844228/12/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:404 frame:17 segment: 20
+Leaving: /Lijing/Time/Space844228/17/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:405 frame:14 segment: 21
+Leaving: /Lijing/Time/Space844228/14/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:406 frame:10 segment: 26
+Leaving: /Lijing/Time/Space844228/10/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:407 frame:2 segment: 22
+Leaving: /Lijing/Time/Space844228/2/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:408 frame:6 segment: 28
+Leaving: /Lijing/Time/Space844228/6/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:409 frame:2 segment: 23
+Leaving: /Lijing/Time/Space844228/2/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:410 frame:6 segment: 29
+Leaving: /Lijing/Time/Space844228/6/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:411 frame:9 segment: 16
+Leaving: /Lijing/Time/Space844228/9/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:412 frame:1 segment: 11
+Leaving: /Lijing/Time/Space844228/1/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:413 frame:1 segment: 12
+Leaving: /Lijing/Time/Space844228/1/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:414 frame:5 segment: 25
+Leaving: /Lijing/Time/Space844228/5/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:415 frame:2 segment: 24
+Leaving: /Lijing/Time/Space844228/2/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:416 frame:3 segment: 18
+Leaving: /Lijing/Time/Space844228/3/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:417 frame:11 segment: 20
+Leaving: /Lijing/Time/Space844228/11/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:418 frame:8 segment: 15
+Leaving: /Lijing/Time/Space844228/8/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:419 frame:12 segment: 18
+Leaving: /Lijing/Time/Space844228/12/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:420 frame:4 segment: 20
+Leaving: /Lijing/Time/Space844228/4/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:421 frame:10 segment: 27
+Leaving: /Lijing/Time/Space844228/10/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:422 frame:17 segment: 21
+Leaving: /Lijing/Time/Space844228/17/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:423 frame:17 segment: 22
+Leaving: /Lijing/Time/Space844228/17/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:424 frame:3 segment: 19
+Leaving: /Lijing/Time/Space844228/3/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:425 frame:12 segment: 19
+Leaving: /Lijing/Time/Space844228/12/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:426 frame:19 segment: 13
+Leaving: /Lijing/Time/Space844228/19/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:427 frame:0 segment: 18
+Leaving: /Lijing/Time/Space844228/0/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:428 frame:19 segment: 14
+Leaving: /Lijing/Time/Space844228/19/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:429 frame:0 segment: 19
+Leaving: /Lijing/Time/Space844228/0/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:430 frame:17 segment: 23
+Leaving: /Lijing/Time/Space844228/17/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:431 frame:2 segment: 25
+Leaving: /Lijing/Time/Space844228/2/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:432 frame:14 segment: 22
+Leaving: /Lijing/Time/Space844228/14/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:433 frame:19 segment: 15
+Leaving: /Lijing/Time/Space844228/19/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:434 frame:9 segment: 17
+Leaving: /Lijing/Time/Space844228/9/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:435 frame:3 segment: 20
+Leaving: /Lijing/Time/Space844228/3/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:436 frame:5 segment: 26
+Leaving: /Lijing/Time/Space844228/5/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:437 frame:0 segment: 20
+Leaving: /Lijing/Time/Space844228/0/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:438 frame:10 segment: 28
+Leaving: /Lijing/Time/Space844228/10/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:439 frame:8 segment: 16
+Leaving: /Lijing/Time/Space844228/8/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:440 frame:10 segment: 29
+Leaving: /Lijing/Time/Space844228/10/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:441 frame:18 segment: 20
+Leaving: /Lijing/Time/Space844228/18/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:442 frame:13 segment: 20
+Leaving: /Lijing/Time/Space844228/13/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:443 frame:17 segment: 24
+Leaving: /Lijing/Time/Space844228/17/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:444 frame:15 segment: 24
+Leaving: /Lijing/Time/Space844228/15/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:445 frame:3 segment: 21
+Leaving: /Lijing/Time/Space844228/3/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:446 frame:1 segment: 13
+Leaving: /Lijing/Time/Space844228/1/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:447 frame:12 segment: 20
+Leaving: /Lijing/Time/Space844228/12/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:448 frame:0 segment: 21
+Leaving: /Lijing/Time/Space844228/0/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:449 frame:14 segment: 23
+Leaving: /Lijing/Time/Space844228/14/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:450 frame:13 segment: 21
+Leaving: /Lijing/Time/Space844228/13/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:451 frame:2 segment: 26
+Leaving: /Lijing/Time/Space844228/2/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:452 frame:2 segment: 27
+Leaving: /Lijing/Time/Space844228/2/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:453 frame:9 segment: 18
+Leaving: /Lijing/Time/Space844228/9/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:454 frame:1 segment: 14
+Leaving: /Lijing/Time/Space844228/1/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:455 frame:3 segment: 22
+Leaving: /Lijing/Time/Space844228/3/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:456 frame:0 segment: 22
+Leaving: /Lijing/Time/Space844228/0/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:457 frame:9 segment: 19
+Leaving: /Lijing/Time/Space844228/9/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:458 frame:16 segment: 19
+Leaving: /Lijing/Time/Space844228/16/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:459 frame:14 segment: 24
+Leaving: /Lijing/Time/Space844228/14/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:460 frame:17 segment: 25
+Leaving: /Lijing/Time/Space844228/17/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:461 frame:16 segment: 20
+Leaving: /Lijing/Time/Space844228/16/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:462 frame:12 segment: 21
+Leaving: /Lijing/Time/Space844228/12/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:463 frame:3 segment: 23
+Leaving: /Lijing/Time/Space844228/3/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:464 frame:5 segment: 27
+Leaving: /Lijing/Time/Space844228/5/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:465 frame:14 segment: 25
+Leaving: /Lijing/Time/Space844228/14/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:466 frame:14 segment: 26
+Leaving: /Lijing/Time/Space844228/14/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:467 frame:2 segment: 28
+Leaving: /Lijing/Time/Space844228/2/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:468 frame:18 segment: 21
+Leaving: /Lijing/Time/Space844228/18/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:469 frame:11 segment: 21
+Leaving: /Lijing/Time/Space844228/11/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:470 frame:9 segment: 20
+Leaving: /Lijing/Time/Space844228/9/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:471 frame:14 segment: 27
+Leaving: /Lijing/Time/Space844228/14/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:472 frame:2 segment: 29
+Leaving: /Lijing/Time/Space844228/2/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:473 frame:17 segment: 26
+Leaving: /Lijing/Time/Space844228/17/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:474 frame:4 segment: 21
+Leaving: /Lijing/Time/Space844228/4/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:475 frame:12 segment: 22
+Leaving: /Lijing/Time/Space844228/12/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:476 frame:15 segment: 25
+Leaving: /Lijing/Time/Space844228/15/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:477 frame:16 segment: 21
+Leaving: /Lijing/Time/Space844228/16/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:478 frame:8 segment: 17
+Leaving: /Lijing/Time/Space844228/8/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:479 frame:0 segment: 23
+Leaving: /Lijing/Time/Space844228/0/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:480 frame:19 segment: 16
+Leaving: /Lijing/Time/Space844228/19/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:481 frame:18 segment: 22
+Leaving: /Lijing/Time/Space844228/18/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:482 frame:5 segment: 28
+Leaving: /Lijing/Time/Space844228/5/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:483 frame:5 segment: 29
+Leaving: /Lijing/Time/Space844228/5/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:484 frame:18 segment: 23
+Leaving: /Lijing/Time/Space844228/18/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:485 frame:3 segment: 24
+Leaving: /Lijing/Time/Space844228/3/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:486 frame:12 segment: 23
+Leaving: /Lijing/Time/Space844228/12/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:487 frame:12 segment: 24
+Leaving: /Lijing/Time/Space844228/12/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:488 frame:18 segment: 24
+Leaving: /Lijing/Time/Space844228/18/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:489 frame:4 segment: 22
+Leaving: /Lijing/Time/Space844228/4/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:490 frame:18 segment: 25
+Leaving: /Lijing/Time/Space844228/18/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:491 frame:13 segment: 22
+Leaving: /Lijing/Time/Space844228/13/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:492 frame:3 segment: 25
+Leaving: /Lijing/Time/Space844228/3/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:493 frame:8 segment: 18
+Leaving: /Lijing/Time/Space844228/8/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:494 frame:12 segment: 25
+Leaving: /Lijing/Time/Space844228/12/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:495 frame:17 segment: 27
+Leaving: /Lijing/Time/Space844228/17/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:496 frame:8 segment: 19
+Leaving: /Lijing/Time/Space844228/8/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:497 frame:4 segment: 23
+Leaving: /Lijing/Time/Space844228/4/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:498 frame:16 segment: 22
+Leaving: /Lijing/Time/Space844228/16/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:499 frame:0 segment: 24
+Leaving: /Lijing/Time/Space844228/0/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:500 frame:4 segment: 24
+Leaving: /Lijing/Time/Space844228/4/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:501 frame:12 segment: 26
+Leaving: /Lijing/Time/Space844228/12/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:502 frame:3 segment: 26
+Leaving: /Lijing/Time/Space844228/3/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:503 frame:4 segment: 25
+Leaving: /Lijing/Time/Space844228/4/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:504 frame:9 segment: 21
+Leaving: /Lijing/Time/Space844228/9/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:505 frame:16 segment: 23
+Leaving: /Lijing/Time/Space844228/16/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:506 frame:14 segment: 28
+Leaving: /Lijing/Time/Space844228/14/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:507 frame:18 segment: 26
+Leaving: /Lijing/Time/Space844228/18/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:508 frame:0 segment: 25
+Leaving: /Lijing/Time/Space844228/0/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:509 frame:18 segment: 27
+Leaving: /Lijing/Time/Space844228/18/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:510 frame:11 segment: 22
+Leaving: /Lijing/Time/Space844228/11/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:511 frame:18 segment: 28
+Leaving: /Lijing/Time/Space844228/18/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:512 frame:12 segment: 27
+Leaving: /Lijing/Time/Space844228/12/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:513 frame:19 segment: 17
+Leaving: /Lijing/Time/Space844228/19/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:514 frame:11 segment: 23
+Leaving: /Lijing/Time/Space844228/11/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:515 frame:1 segment: 15
+Leaving: /Lijing/Time/Space844228/1/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:516 frame:16 segment: 24
+Leaving: /Lijing/Time/Space844228/16/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:517 frame:4 segment: 26
+Leaving: /Lijing/Time/Space844228/4/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:518 frame:3 segment: 27
+Leaving: /Lijing/Time/Space844228/3/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:519 frame:8 segment: 20
+Leaving: /Lijing/Time/Space844228/8/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:520 frame:8 segment: 21
+Leaving: /Lijing/Time/Space844228/8/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:521 frame:13 segment: 23
+Leaving: /Lijing/Time/Space844228/13/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:522 frame:1 segment: 16
+Leaving: /Lijing/Time/Space844228/1/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:523 frame:14 segment: 29
+Leaving: /Lijing/Time/Space844228/14/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:524 frame:0 segment: 26
+Leaving: /Lijing/Time/Space844228/0/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:525 frame:15 segment: 26
+Leaving: /Lijing/Time/Space844228/15/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:526 frame:8 segment: 22
+Leaving: /Lijing/Time/Space844228/8/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:527 frame:18 segment: 29
+Leaving: /Lijing/Time/Space844228/18/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:528 frame:13 segment: 24
+Leaving: /Lijing/Time/Space844228/13/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:529 frame:1 segment: 17
+Leaving: /Lijing/Time/Space844228/1/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:530 frame:0 segment: 27
+Leaving: /Lijing/Time/Space844228/0/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:531 frame:8 segment: 23
+Leaving: /Lijing/Time/Space844228/8/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:532 frame:15 segment: 27
+Leaving: /Lijing/Time/Space844228/15/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:533 frame:12 segment: 28
+Leaving: /Lijing/Time/Space844228/12/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:534 frame:4 segment: 27
+Leaving: /Lijing/Time/Space844228/4/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:535 frame:1 segment: 18
+Leaving: /Lijing/Time/Space844228/1/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:536 frame:19 segment: 18
+Leaving: /Lijing/Time/Space844228/19/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:537 frame:15 segment: 28
+Leaving: /Lijing/Time/Space844228/15/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:538 frame:15 segment: 29
+Leaving: /Lijing/Time/Space844228/15/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:539 frame:19 segment: 19
+Leaving: /Lijing/Time/Space844228/19/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:540 frame:19 segment: 20
+Leaving: /Lijing/Time/Space844228/19/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:541 frame:12 segment: 29
+Leaving: /Lijing/Time/Space844228/12/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:542 frame:4 segment: 28
+Leaving: /Lijing/Time/Space844228/4/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:543 frame:1 segment: 19
+Leaving: /Lijing/Time/Space844228/1/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:544 frame:8 segment: 24
+Leaving: /Lijing/Time/Space844228/8/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:545 frame:19 segment: 21
+Leaving: /Lijing/Time/Space844228/19/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:546 frame:19 segment: 22
+Leaving: /Lijing/Time/Space844228/19/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:547 frame:3 segment: 28
+Leaving: /Lijing/Time/Space844228/3/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:548 frame:8 segment: 25
+Leaving: /Lijing/Time/Space844228/8/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:549 frame:19 segment: 23
+Leaving: /Lijing/Time/Space844228/19/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:550 frame:11 segment: 24
+Leaving: /Lijing/Time/Space844228/11/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:551 frame:3 segment: 29
+Leaving: /Lijing/Time/Space844228/3/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:552 frame:13 segment: 25
+Leaving: /Lijing/Time/Space844228/13/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:553 frame:13 segment: 26
+Leaving: /Lijing/Time/Space844228/13/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:554 frame:17 segment: 28
+Leaving: /Lijing/Time/Space844228/17/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:555 frame:1 segment: 20
+Leaving: /Lijing/Time/Space844228/1/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:556 frame:0 segment: 28
+Leaving: /Lijing/Time/Space844228/0/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:557 frame:19 segment: 24
+Leaving: /Lijing/Time/Space844228/19/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:558 frame:4 segment: 29
+Leaving: /Lijing/Time/Space844228/4/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:559 frame:13 segment: 27
+Leaving: /Lijing/Time/Space844228/13/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:560 frame:11 segment: 25
+Leaving: /Lijing/Time/Space844228/11/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:561 frame:11 segment: 26
+Leaving: /Lijing/Time/Space844228/11/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:562 frame:1 segment: 21
+Leaving: /Lijing/Time/Space844228/1/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:563 frame:1 segment: 22
+Leaving: /Lijing/Time/Space844228/1/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:564 frame:0 segment: 29
+Leaving: /Lijing/Time/Space844228/0/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:565 frame:9 segment: 22
+Leaving: /Lijing/Time/Space844228/9/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:566 frame:8 segment: 26
+Leaving: /Lijing/Time/Space844228/8/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:567 frame:9 segment: 23
+Leaving: /Lijing/Time/Space844228/9/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:568 frame:17 segment: 29
+Leaving: /Lijing/Time/Space844228/17/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:569 frame:19 segment: 25
+Leaving: /Lijing/Time/Space844228/19/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:570 frame:1 segment: 23
+Leaving: /Lijing/Time/Space844228/1/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:571 frame:16 segment: 25
+Leaving: /Lijing/Time/Space844228/16/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:572 frame:16 segment: 26
+Leaving: /Lijing/Time/Space844228/16/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:573 frame:1 segment: 24
+Leaving: /Lijing/Time/Space844228/1/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:574 frame:16 segment: 27
+Leaving: /Lijing/Time/Space844228/16/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:575 frame:11 segment: 27
+Leaving: /Lijing/Time/Space844228/11/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:576 frame:16 segment: 28
+Leaving: /Lijing/Time/Space844228/16/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:577 frame:8 segment: 27
+Leaving: /Lijing/Time/Space844228/8/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:578 frame:19 segment: 26
+Leaving: /Lijing/Time/Space844228/19/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:579 frame:11 segment: 28
+Leaving: /Lijing/Time/Space844228/11/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:580 frame:9 segment: 24
+Leaving: /Lijing/Time/Space844228/9/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:581 frame:13 segment: 28
+Leaving: /Lijing/Time/Space844228/13/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:582 frame:8 segment: 28
+Leaving: /Lijing/Time/Space844228/8/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:583 frame:16 segment: 29
+Leaving: /Lijing/Time/Space844228/16/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:584 frame:13 segment: 29
+Leaving: /Lijing/Time/Space844228/13/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:585 frame:11 segment: 29
+Leaving: /Lijing/Time/Space844228/11/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:586 frame:9 segment: 25
+Leaving: /Lijing/Time/Space844228/9/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:587 frame:9 segment: 26
+Leaving: /Lijing/Time/Space844228/9/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:588 frame:19 segment: 27
+Leaving: /Lijing/Time/Space844228/19/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:589 frame:8 segment: 29
+Leaving: /Lijing/Time/Space844228/8/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:590 frame:19 segment: 28
+Leaving: /Lijing/Time/Space844228/19/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:591 frame:1 segment: 25
+Leaving: /Lijing/Time/Space844228/1/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:592 frame:19 segment: 29
+Leaving: /Lijing/Time/Space844228/19/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:593 frame:1 segment: 26
+Leaving: /Lijing/Time/Space844228/1/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:594 frame:1 segment: 27
+Leaving: /Lijing/Time/Space844228/1/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:595 frame:1 segment: 28
+Leaving: /Lijing/Time/Space844228/1/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:596 frame:9 segment: 27
+Leaving: /Lijing/Time/Space844228/9/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:597 frame:1 segment: 29
+Leaving: /Lijing/Time/Space844228/1/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:598 frame:9 segment: 28
+Leaving: /Lijing/Time/Space844228/9/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+i:599 frame:9 segment: 29
+Leaving: /Lijing/Time/Space844228/9/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000
+*************************************************************
+Window Size 1
+Final duration 28883520000 nanoseconds

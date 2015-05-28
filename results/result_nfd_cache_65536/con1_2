@@ -1,0 +1,2 @@
+13libc++abi.dylib: terminating with uncterminating with uncaught exception of type ndn::Transport::Error: error while receiving data from 
+ocket (End of file)

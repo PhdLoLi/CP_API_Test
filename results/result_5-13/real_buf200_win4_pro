@@ -1,0 +1,1302 @@
+Entering /Lijing/Time/Space352819/6/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2657281290
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/6/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2657281290
+frame:6 segment:1
+Cache Miss - Finish Times 1
+This Time Segmentation duration 451269000 nanoseconds
+The whole segmentation duration 451269000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/6/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=484400570
+Entering /Lijing/Time/Space352819/6/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=587163645
+Entering /Lijing/Time/Space352819/1/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2393556858
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/1/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2393556858
+frame:1 segment:0
+Cache Miss - Finish Times 2
+This Time Segmentation duration 476874000 nanoseconds
+The whole segmentation duration 928143000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/1/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=951823584
+Entering /Lijing/Time/Space352819/1/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2923365842
+Entering /Lijing/Time/Space352819/1/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1978996552
+Entering /Lijing/Time/Space352819/18/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1240499290
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/18/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1240499290
+frame:18 segment:0
+Cache Miss - Finish Times 3
+This Time Segmentation duration 466249000 nanoseconds
+The whole segmentation duration 1394392000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/18/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3441356709
+Entering /Lijing/Time/Space352819/18/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=918981740
+Entering /Lijing/Time/Space352819/18/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=780529269
+Entering /Lijing/Time/Space352819/13/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=160862282
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/13/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=160862282
+frame:13 segment:0
+Cache Miss - Finish Times 4
+This Time Segmentation duration 453281000 nanoseconds
+The whole segmentation duration 1847673000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/13/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4294812737
+Entering /Lijing/Time/Space352819/13/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=932563707
+Entering /Lijing/Time/Space352819/13/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2536246302
+Entering /Lijing/Time/Space352819/5/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1048563028
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/5/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1048563028
+frame:5 segment:0
+Cache Miss - Finish Times 5
+This Time Segmentation duration 445773000 nanoseconds
+The whole segmentation duration 2293446000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/5/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3269960686
+Entering /Lijing/Time/Space352819/5/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3317009406
+Entering /Lijing/Time/Space352819/5/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2281622953
+Entering /Lijing/Time/Space352819/7/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2048559565
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/7/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2048559565
+frame:7 segment:0
+Cache Miss - Finish Times 6
+This Time Segmentation duration 449591000 nanoseconds
+The whole segmentation duration 2743037000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/7/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=605330940
+Entering /Lijing/Time/Space352819/7/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=622457483
+Entering /Lijing/Time/Space352819/7/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=167765793
+Entering /Lijing/Time/Space352819/7/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2311542075
+Entering /Lijing/Time/Space352819/7/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=637619526
+Entering /Lijing/Time/Space352819/7/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2056794011
+Entering /Lijing/Time/Space352819/7/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=387027248
+Entering /Lijing/Time/Space352819/19/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1221507750
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/19/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1221507750
+frame:19 segment:0
+Cache Miss - Finish Times 7
+This Time Segmentation duration 473803000 nanoseconds
+The whole segmentation duration 3216840000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/19/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=234495150
+Entering /Lijing/Time/Space352819/19/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1284123686
+Entering /Lijing/Time/Space352819/19/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1611707618
+Entering /Lijing/Time/Space352819/19/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1040260862
+Entering /Lijing/Time/Space352819/19/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1217286854
+Entering /Lijing/Time/Space352819/19/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1378392064
+Entering /Lijing/Time/Space352819/19/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=688301756
+Entering /Lijing/Time/Space352819/7/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1435379911
+Entering /Lijing/Time/Space352819/7/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=543329495
+Entering /Lijing/Time/Space352819/7/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4091149818
+Entering /Lijing/Time/Space352819/7/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3120772727
+Entering /Lijing/Time/Space352819/0/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=848178614
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/0/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=848178614
+frame:0 segment:0
+Cache Miss - Finish Times 8
+This Time Segmentation duration 493692000 nanoseconds
+The whole segmentation duration 3710532000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/0/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=790983293
+Entering /Lijing/Time/Space352819/0/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=528746619
+Entering /Lijing/Time/Space352819/0/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=262097184
+Entering /Lijing/Time/Space352819/7/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2380984774
+Entering /Lijing/Time/Space352819/7/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3096400886
+Entering /Lijing/Time/Space352819/7/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1749132656
+Entering /Lijing/Time/Space352819/7/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=935183927
+Entering /Lijing/Time/Space352819/18/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2619462916
+Entering /Lijing/Time/Space352819/18/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1181675474
+Entering /Lijing/Time/Space352819/18/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1321259707
+Entering /Lijing/Time/Space352819/18/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=768801642
+Entering /Lijing/Time/Space352819/1/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=898430085
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/1/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=898430085
+frame:1 segment:4
+Cache Miss - Finish Times 9
+This Time Segmentation duration 492414000 nanoseconds
+The whole segmentation duration 4202946000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/1/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1282910693
+Entering /Lijing/Time/Space352819/1/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3400143946
+Entering /Lijing/Time/Space352819/1/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1785175104
+Entering /Lijing/Time/Space352819/7/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2252671017
+Entering /Lijing/Time/Space352819/7/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3663835854
+Entering /Lijing/Time/Space352819/7/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1111755003
+Entering /Lijing/Time/Space352819/7/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2041825193
+Entering /Lijing/Time/Space352819/3/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3524128773
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/3/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3524128773
+frame:3 segment:0
+Cache Miss - Finish Times 10
+This Time Segmentation duration 480316000 nanoseconds
+The whole segmentation duration 4683262000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/3/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=513781452
+Entering /Lijing/Time/Space352819/3/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=423501447
+Entering /Lijing/Time/Space352819/3/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=395341296
+Entering /Lijing/Time/Space352819/14/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3808034109
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/14/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3808034109
+frame:14 segment:0
+Cache Miss - Finish Times 11
+This Time Segmentation duration 497961000 nanoseconds
+The whole segmentation duration 5181223000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/14/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3959484855
+Entering /Lijing/Time/Space352819/14/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1587744368
+Entering /Lijing/Time/Space352819/14/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=80462418
+Entering /Lijing/Time/Space352819/7/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1101407370
+Entering /Lijing/Time/Space352819/7/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=519113536
+Entering /Lijing/Time/Space352819/7/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3448479835
+Entering /Lijing/Time/Space352819/7/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=339608119
+Entering /Lijing/Time/Space352819/18/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4094873548
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/18/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4094873548
+frame:18 segment:8
+Cache Miss - Finish Times 12
+This Time Segmentation duration 457807000 nanoseconds
+The whole segmentation duration 5639030000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/18/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4179007395
+Entering /Lijing/Time/Space352819/18/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1368729164
+Entering /Lijing/Time/Space352819/18/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2555445961
+Entering /Lijing/Time/Space352819/16/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1277105168
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/16/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1277105168
+frame:16 segment:0
+Cache Miss - Finish Times 13
+This Time Segmentation duration 445924000 nanoseconds
+The whole segmentation duration 6084954000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/16/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=458762893
+Entering /Lijing/Time/Space352819/16/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=880424818
+Entering /Lijing/Time/Space352819/16/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1034439999
+Entering /Lijing/Time/Space352819/10/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1116400538
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/10/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1116400538
+frame:10 segment:0
+Cache Miss - Finish Times 14
+This Time Segmentation duration 450400000 nanoseconds
+The whole segmentation duration 6535354000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/10/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=677772613
+Entering /Lijing/Time/Space352819/10/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2812392786
+Entering /Lijing/Time/Space352819/10/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4292612636
+Entering /Lijing/Time/Space352819/12/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2174267583
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/12/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2174267583
+frame:12 segment:0
+Cache Miss - Finish Times 15
+This Time Segmentation duration 429820000 nanoseconds
+The whole segmentation duration 6965174000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/12/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=488498419
+Entering /Lijing/Time/Space352819/12/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=582470089
+Entering /Lijing/Time/Space352819/12/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1865426753
+Entering /Lijing/Time/Space352819/7/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2177771189
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/7/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2177771189
+frame:7 segment:24
+Cache Miss - Finish Times 16
+This Time Segmentation duration 429277000 nanoseconds
+The whole segmentation duration 7394451000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/7/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3693752762
+Entering /Lijing/Time/Space352819/7/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1177013480
+Entering /Lijing/Time/Space352819/7/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1885229873
+Entering /Lijing/Time/Space352819/9/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=229692617
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/9/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=229692617
+frame:9 segment:0
+Cache Miss - Finish Times 17
+This Time Segmentation duration 432932000 nanoseconds
+The whole segmentation duration 7827383000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/9/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3644079335
+Entering /Lijing/Time/Space352819/9/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3877809479
+Entering /Lijing/Time/Space352819/9/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3551217323
+Entering /Lijing/Time/Space352819/17/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1561106932
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/17/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1561106932
+frame:17 segment:0
+Cache Miss - Finish Times 18
+This Time Segmentation duration 426255000 nanoseconds
+The whole segmentation duration 8253638000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/17/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2757981975
+Entering /Lijing/Time/Space352819/17/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4103610266
+Entering /Lijing/Time/Space352819/17/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=248861391
+Entering /Lijing/Time/Space352819/3/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2614577887
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/3/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2614577887
+frame:3 segment:4
+Cache Miss - Finish Times 19
+This Time Segmentation duration 455989000 nanoseconds
+The whole segmentation duration 8709627000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/3/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1400665447
+Entering /Lijing/Time/Space352819/3/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=104885062
+Entering /Lijing/Time/Space352819/3/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3910753901
+Entering /Lijing/Time/Space352819/16/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3281816515
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/16/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3281816515
+frame:16 segment:4
+Cache Miss - Finish Times 20
+This Time Segmentation duration 449897000 nanoseconds
+The whole segmentation duration 9159524000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/16/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=456253166
+Entering /Lijing/Time/Space352819/16/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=745354972
+Entering /Lijing/Time/Space352819/16/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3677199899
+Entering /Lijing/Time/Space352819/14/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2565876924
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/14/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2565876924
+frame:14 segment:4
+Cache Miss - Finish Times 21
+This Time Segmentation duration 491798000 nanoseconds
+The whole segmentation duration 9651322000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/14/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2237334030
+Entering /Lijing/Time/Space352819/14/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1372533008
+Entering /Lijing/Time/Space352819/14/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1218668753
+Entering /Lijing/Time/Space352819/10/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1477496036
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/10/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1477496036
+frame:10 segment:4
+Cache Miss - Finish Times 22
+This Time Segmentation duration 443055000 nanoseconds
+The whole segmentation duration 10094377000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/10/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1904001030
+Entering /Lijing/Time/Space352819/10/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3499914255
+Entering /Lijing/Time/Space352819/10/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1910646891
+Entering /Lijing/Time/Space352819/6/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3175124022
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/6/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3175124022
+frame:6 segment:4
+Cache Miss - Finish Times 23
+This Time Segmentation duration 454147000 nanoseconds
+The whole segmentation duration 10548524000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/6/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3796087240
+Entering /Lijing/Time/Space352819/6/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1152050645
+Entering /Lijing/Time/Space352819/6/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=337206168
+Entering /Lijing/Time/Space352819/8/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4211982090
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/8/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4211982090
+frame:8 segment:0
+Cache Miss - Finish Times 24
+This Time Segmentation duration 437476000 nanoseconds
+The whole segmentation duration 10986000000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/8/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2974043830
+Entering /Lijing/Time/Space352819/8/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1630872593
+Entering /Lijing/Time/Space352819/8/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1961601600
+Entering /Lijing/Time/Space352819/3/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1895063490
+Entering /Lijing/Time/Space352819/3/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1874854629
+Entering /Lijing/Time/Space352819/3/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=184815094
+Entering /Lijing/Time/Space352819/3/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1988666886
+Entering /Lijing/Time/Space352819/13/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2738569431
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/13/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2738569431
+frame:13 segment:4
+Cache Miss - Finish Times 25
+This Time Segmentation duration 448744000 nanoseconds
+The whole segmentation duration 11434744000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/13/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3081961432
+Entering /Lijing/Time/Space352819/13/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2653269458
+Entering /Lijing/Time/Space352819/13/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2426677837
+Entering /Lijing/Time/Space352819/5/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3475510878
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/5/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3475510878
+frame:5 segment:4
+Cache Miss - Finish Times 26
+This Time Segmentation duration 422984000 nanoseconds
+The whole segmentation duration 11857728000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/5/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1812834242
+Entering /Lijing/Time/Space352819/5/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=989132424
+Entering /Lijing/Time/Space352819/5/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=964359495
+Entering /Lijing/Time/Space352819/13/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2031811633
+Entering /Lijing/Time/Space352819/13/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3898288276
+Entering /Lijing/Time/Space352819/13/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=516709414
+Entering /Lijing/Time/Space352819/13/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=774874983
+Entering /Lijing/Time/Space352819/8/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=178423671
+Entering /Lijing/Time/Space352819/8/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2701408267
+Entering /Lijing/Time/Space352819/8/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3126638997
+Entering /Lijing/Time/Space352819/8/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4024632849
+Entering /Lijing/Time/Space352819/9/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3644481953
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/9/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3644481953
+frame:9 segment:4
+Cache Miss - Finish Times 27
+This Time Segmentation duration 435674000 nanoseconds
+The whole segmentation duration 12293402000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/9/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2253647071
+Entering /Lijing/Time/Space352819/9/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3610401557
+Entering /Lijing/Time/Space352819/9/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=979266439
+Entering /Lijing/Time/Space352819/15/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3835227251
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/15/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3835227251
+frame:15 segment:0
+Cache Miss - Finish Times 28
+This Time Segmentation duration 434433000 nanoseconds
+The whole segmentation duration 12727835000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/15/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3578380684
+Entering /Lijing/Time/Space352819/15/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1612667319
+Entering /Lijing/Time/Space352819/15/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1625946781
+Entering /Lijing/Time/Space352819/1/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1980888238
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/1/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1980888238
+frame:1 segment:8
+Cache Miss - Finish Times 29
+This Time Segmentation duration 429833000 nanoseconds
+The whole segmentation duration 13157668000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/1/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3936213359
+Entering /Lijing/Time/Space352819/1/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=798057339
+Entering /Lijing/Time/Space352819/1/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=24889196
+Entering /Lijing/Time/Space352819/5/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3011718865
+Entering /Lijing/Time/Space352819/5/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2128191784
+Entering /Lijing/Time/Space352819/5/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1544603790
+Entering /Lijing/Time/Space352819/5/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1764988526
+Entering /Lijing/Time/Space352819/11/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2051542078
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/11/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2051542078
+frame:11 segment:0
+Cache Miss - Finish Times 30
+This Time Segmentation duration 420765000 nanoseconds
+The whole segmentation duration 13578433000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/11/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3750200719
+Entering /Lijing/Time/Space352819/11/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3513306531
+Entering /Lijing/Time/Space352819/11/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=84694748
+Entering /Lijing/Time/Space352819/11/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=269562846
+Entering /Lijing/Time/Space352819/11/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1226816331
+Entering /Lijing/Time/Space352819/11/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1674513119
+Entering /Lijing/Time/Space352819/11/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=394673237
+Entering /Lijing/Time/Space352819/13/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3931957421
+Entering /Lijing/Time/Space352819/13/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1009284408
+Entering /Lijing/Time/Space352819/13/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3159256466
+Entering /Lijing/Time/Space352819/13/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=665345640
+Entering /Lijing/Time/Space352819/4/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2089277631
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/4/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2089277631
+frame:4 segment:0
+Cache Miss - Finish Times 31
+This Time Segmentation duration 426367000 nanoseconds
+The whole segmentation duration 14004800000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/4/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=585150078
+Entering /Lijing/Time/Space352819/4/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=677710798
+Entering /Lijing/Time/Space352819/4/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3635508143
+Entering /Lijing/Time/Space352819/6/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1890280567
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/6/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1890280567
+frame:6 segment:8
+Cache Miss - Finish Times 32
+This Time Segmentation duration 441398000 nanoseconds
+The whole segmentation duration 14446198000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/6/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1036136871
+Entering /Lijing/Time/Space352819/6/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1050823100
+Entering /Lijing/Time/Space352819/6/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1775298538
+Entering /Lijing/Time/Space352819/16/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1087528824
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/16/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1087528824
+frame:16 segment:8
+Cache Miss - Finish Times 33
+This Time Segmentation duration 437953000 nanoseconds
+The whole segmentation duration 14884151000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/16/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1589054892
+Entering /Lijing/Time/Space352819/16/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3809209623
+Entering /Lijing/Time/Space352819/16/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3356487537
+Entering /Lijing/Time/Space352819/9/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1289026160
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/9/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1289026160
+frame:9 segment:8
+Cache Miss - Finish Times 34
+This Time Segmentation duration 459405000 nanoseconds
+The whole segmentation duration 15343556000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/9/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1730666702
+Entering /Lijing/Time/Space352819/9/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1341048659
+Entering /Lijing/Time/Space352819/9/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1572913115
+Entering /Lijing/Time/Space352819/6/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=152690908
+Entering /Lijing/Time/Space352819/6/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=842162274
+Entering /Lijing/Time/Space352819/6/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=93034960
+Entering /Lijing/Time/Space352819/6/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3454280950
+Entering /Lijing/Time/Space352819/10/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2769457098
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/10/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2769457098
+frame:10 segment:8
+Cache Miss - Finish Times 35
+This Time Segmentation duration 449566000 nanoseconds
+The whole segmentation duration 15793122000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/10/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2868447269
+Entering /Lijing/Time/Space352819/10/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1516544031
+Entering /Lijing/Time/Space352819/10/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3525978115
+Entering /Lijing/Time/Space352819/19/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3739080251
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/19/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3739080251
+frame:19 segment:8
+Cache Miss - Finish Times 36
+This Time Segmentation duration 442519000 nanoseconds
+The whole segmentation duration 16235641000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/19/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4048566659
+Entering /Lijing/Time/Space352819/19/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1331288028
+Entering /Lijing/Time/Space352819/19/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1720042113
+Entering /Lijing/Time/Space352819/19/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=107679810
+Entering /Lijing/Time/Space352819/19/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2896903364
+Entering /Lijing/Time/Space352819/19/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=456964378
+Entering /Lijing/Time/Space352819/19/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=223386710
+Entering /Lijing/Time/Space352819/6/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=689848438
+Entering /Lijing/Time/Space352819/6/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1958516209
+Entering /Lijing/Time/Space352819/6/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=442449394
+Entering /Lijing/Time/Space352819/6/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=725693923
+Entering /Lijing/Time/Space352819/4/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3452240281
+Entering /Lijing/Time/Space352819/4/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4083894742
+Entering /Lijing/Time/Space352819/4/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3806481441
+Entering /Lijing/Time/Space352819/4/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1988043142
+Entering /Lijing/Time/Space352819/19/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2988242074
+Entering /Lijing/Time/Space352819/19/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3713917928
+Entering /Lijing/Time/Space352819/19/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2976855151
+Entering /Lijing/Time/Space352819/19/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2748646305
+Entering /Lijing/Time/Space352819/8/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1124215160
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/8/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1124215160
+frame:8 segment:8
+Cache Miss - Finish Times 37
+This Time Segmentation duration 463631000 nanoseconds
+The whole segmentation duration 16699272000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/8/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=977678757
+Entering /Lijing/Time/Space352819/8/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1815143030
+Entering /Lijing/Time/Space352819/8/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=902099238
+Entering /Lijing/Time/Space352819/5/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1776777973
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/5/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1776777973
+frame:5 segment:12
+Cache Miss - Finish Times 38
+This Time Segmentation duration 432732000 nanoseconds
+The whole segmentation duration 17132004000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/5/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3446231400
+Entering /Lijing/Time/Space352819/5/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2782895397
+Entering /Lijing/Time/Space352819/5/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2947311492
+Entering /Lijing/Time/Space352819/14/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2578317267
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/14/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2578317267
+frame:14 segment:8
+Cache Miss - Finish Times 39
+This Time Segmentation duration 430955000 nanoseconds
+The whole segmentation duration 17562959000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/14/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1557011488
+Entering /Lijing/Time/Space352819/14/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1102979799
+Entering /Lijing/Time/Space352819/14/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2710587231
+Entering /Lijing/Time/Space352819/16/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1180768508
+Entering /Lijing/Time/Space352819/16/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2050145201
+Entering /Lijing/Time/Space352819/16/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3992939115
+Entering /Lijing/Time/Space352819/16/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=264021846
+Entering /Lijing/Time/Space352819/17/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3000294532
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/17/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3000294532
+frame:17 segment:4
+Cache Miss - Finish Times 40
+This Time Segmentation duration 421794000 nanoseconds
+The whole segmentation duration 17984753000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/17/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1992018901
+Entering /Lijing/Time/Space352819/17/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2045598897
+Entering /Lijing/Time/Space352819/17/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3757985402
+Entering /Lijing/Time/Space352819/18/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=284812759
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/18/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=284812759
+frame:18 segment:12
+Cache Miss - Finish Times 41
+This Time Segmentation duration 433216000 nanoseconds
+The whole segmentation duration 18417969000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/18/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2267312982
+Entering /Lijing/Time/Space352819/18/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2007214371
+Entering /Lijing/Time/Space352819/18/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3008940548
+Entering /Lijing/Time/Space352819/12/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3676455257
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/12/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3676455257
+frame:12 segment:4
+Cache Miss - Finish Times 42
+This Time Segmentation duration 421939000 nanoseconds
+The whole segmentation duration 18839908000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/12/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1363928932
+Entering /Lijing/Time/Space352819/12/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1337557040
+Entering /Lijing/Time/Space352819/12/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=867654873
+Entering /Lijing/Time/Space352819/18/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1404277694
+Entering /Lijing/Time/Space352819/18/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3055102691
+Entering /Lijing/Time/Space352819/18/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=781927033
+Entering /Lijing/Time/Space352819/18/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2453719440
+Entering /Lijing/Time/Space352819/15/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2087791363
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/15/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2087791363
+frame:15 segment:4
+Cache Miss - Finish Times 43
+This Time Segmentation duration 432087000 nanoseconds
+The whole segmentation duration 19271995000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/15/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2876451413
+Entering /Lijing/Time/Space352819/15/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1397789795
+Entering /Lijing/Time/Space352819/15/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3552890565
+Entering /Lijing/Time/Space352819/11/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=430682273
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/11/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=430682273
+frame:11 segment:8
+Cache Miss - Finish Times 44
+This Time Segmentation duration 433074000 nanoseconds
+The whole segmentation duration 19705069000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/11/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2648783219
+Entering /Lijing/Time/Space352819/11/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3816845470
+Entering /Lijing/Time/Space352819/11/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3181714488
+Entering /Lijing/Time/Space352819/13/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3305301450
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/13/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3305301450
+frame:13 segment:16
+Cache Miss - Finish Times 45
+This Time Segmentation duration 423298000 nanoseconds
+The whole segmentation duration 20128367000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/13/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2754218327
+Entering /Lijing/Time/Space352819/13/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1816128709
+Entering /Lijing/Time/Space352819/13/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3895623093
+Entering /Lijing/Time/Space352819/13/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=650409808
+Entering /Lijing/Time/Space352819/13/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2894128623
+Entering /Lijing/Time/Space352819/13/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1975541340
+Entering /Lijing/Time/Space352819/13/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3055327619
+Entering /Lijing/Time/Space352819/3/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4286089781
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/3/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4286089781
+frame:3 segment:12
+Cache Miss - Finish Times 46
+This Time Segmentation duration 470947000 nanoseconds
+The whole segmentation duration 20599314000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/3/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3332768808
+Entering /Lijing/Time/Space352819/3/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=184873634
+Entering /Lijing/Time/Space352819/3/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=73270342
+Entering /Lijing/Time/Space352819/12/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=952052897
+Entering /Lijing/Time/Space352819/12/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3025121132
+Entering /Lijing/Time/Space352819/12/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=62937417
+Entering /Lijing/Time/Space352819/12/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2965499178
+Entering /Lijing/Time/Space352819/4/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=779141014
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/4/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=779141014
+frame:4 segment:8
+Cache Miss - Finish Times 47
+This Time Segmentation duration 421587000 nanoseconds
+The whole segmentation duration 21020901000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/4/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2174367974
+Entering /Lijing/Time/Space352819/4/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=761828530
+Entering /Lijing/Time/Space352819/4/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2497334427
+Entering /Lijing/Time/Space352819/8/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2735859870
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/8/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2735859870
+frame:8 segment:12
+Cache Miss - Finish Times 48
+This Time Segmentation duration 434218000 nanoseconds
+The whole segmentation duration 21455119000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/8/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3503222068
+Entering /Lijing/Time/Space352819/8/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=20841470
+Entering /Lijing/Time/Space352819/8/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1970749379
+Entering /Lijing/Time/Space352819/12/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2672474630
+Entering /Lijing/Time/Space352819/12/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1439994324
+Entering /Lijing/Time/Space352819/12/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2404659851
+Entering /Lijing/Time/Space352819/12/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2700790178
+Entering /Lijing/Time/Space352819/7/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2330907059
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/7/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2330907059
+frame:7 segment:28
+Cache Miss - Finish Times 49
+This Time Segmentation duration 424410000 nanoseconds
+The whole segmentation duration 21879529000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/6/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=315686622
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/6/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=315686622
+frame:6 segment:20
+Cache Miss - Finish Times 50
+This Time Segmentation duration 423350000 nanoseconds
+The whole segmentation duration 22302879000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/6/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3409762134
+Entering /Lijing/Time/Space352819/6/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2290961972
+Entering /Lijing/Time/Space352819/6/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2325640956
+Entering /Lijing/Time/Space352819/1/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=875863414
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/1/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=875863414
+frame:1 segment:12
+Cache Miss - Finish Times 51
+This Time Segmentation duration 421959000 nanoseconds
+The whole segmentation duration 22724838000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/1/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1334906321
+Entering /Lijing/Time/Space352819/1/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3008229348
+Entering /Lijing/Time/Space352819/1/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=965337092
+Entering /Lijing/Time/Space352819/10/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3636965776
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/10/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3636965776
+frame:10 segment:12
+Cache Miss - Finish Times 52
+This Time Segmentation duration 421087000 nanoseconds
+The whole segmentation duration 23145925000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/10/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3004900574
+Entering /Lijing/Time/Space352819/10/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=145816450
+Entering /Lijing/Time/Space352819/10/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3545519858
+Entering /Lijing/Time/Space352819/13/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2549579159
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/13/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2549579159
+frame:13 segment:24
+Cache Miss - Finish Times 53
+This Time Segmentation duration 447029000 nanoseconds
+The whole segmentation duration 23592954000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/13/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1004414992
+Entering /Lijing/Time/Space352819/13/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4124688836
+Entering /Lijing/Time/Space352819/13/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=810263466
+Entering /Lijing/Time/Space352819/12/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3553059247
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/12/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3553059247
+frame:12 segment:16
+Cache Miss - Finish Times 54
+This Time Segmentation duration 426995000 nanoseconds
+The whole segmentation duration 24019949000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/12/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1679474076
+Entering /Lijing/Time/Space352819/12/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3501199719
+Entering /Lijing/Time/Space352819/12/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1163010285
+Entering /Lijing/Time/Space352819/10/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4148246058
+Entering /Lijing/Time/Space352819/10/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3063263465
+Entering /Lijing/Time/Space352819/10/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=317789665
+Entering /Lijing/Time/Space352819/10/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4024630241
+Entering /Lijing/Time/Space352819/8/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1706533820
+Entering /Lijing/Time/Space352819/8/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3599939342
+Entering /Lijing/Time/Space352819/8/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2729174832
+Entering /Lijing/Time/Space352819/8/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3787351555
+Entering /Lijing/Time/Space352819/11/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2486343278
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/11/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2486343278
+frame:11 segment:12
+Cache Miss - Finish Times 55
+This Time Segmentation duration 445736000 nanoseconds
+The whole segmentation duration 24465685000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/11/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4080167012
+Entering /Lijing/Time/Space352819/11/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=257744875
+Entering /Lijing/Time/Space352819/11/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4054180894
+Entering /Lijing/Time/Space352819/2/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1442898195
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/2/%00%00?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1442898195
+frame:2 segment:0
+Cache Miss - Finish Times 56
+This Time Segmentation duration 477611000 nanoseconds
+The whole segmentation duration 24943296000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/2/%00%01?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3144215990
+Entering /Lijing/Time/Space352819/2/%00%02?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=909778198
+Entering /Lijing/Time/Space352819/2/%00%03?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2786081833
+Entering /Lijing/Time/Space352819/9/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1842158187
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/9/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1842158187
+frame:9 segment:12
+Cache Miss - Finish Times 57
+This Time Segmentation duration 455831000 nanoseconds
+The whole segmentation duration 25399127000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/9/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1329867787
+Entering /Lijing/Time/Space352819/9/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2926925981
+Entering /Lijing/Time/Space352819/9/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2958260242
+Entering /Lijing/Time/Space352819/9/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2941273774
+Entering /Lijing/Time/Space352819/9/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3080937294
+Entering /Lijing/Time/Space352819/9/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3291551510
+Entering /Lijing/Time/Space352819/9/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1235910525
+Entering /Lijing/Time/Space352819/8/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4229795032
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/8/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4229795032
+frame:8 segment:20
+Cache Miss - Finish Times 58
+This Time Segmentation duration 482535000 nanoseconds
+The whole segmentation duration 25881662000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/8/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2342099080
+Entering /Lijing/Time/Space352819/8/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1963166471
+Entering /Lijing/Time/Space352819/8/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=978016159
+Entering /Lijing/Time/Space352819/1/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3110926687
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/1/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3110926687
+frame:1 segment:16
+Cache Miss - Finish Times 59
+This Time Segmentation duration 446899000 nanoseconds
+The whole segmentation duration 26328561000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/1/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2485620508
+Entering /Lijing/Time/Space352819/1/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3993004255
+Entering /Lijing/Time/Space352819/1/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1651417400
+Entering /Lijing/Time/Space352819/8/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=9099953
+Entering /Lijing/Time/Space352819/8/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2487085270
+Entering /Lijing/Time/Space352819/8/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3807712581
+Entering /Lijing/Time/Space352819/8/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1261662001
+Entering /Lijing/Time/Space352819/15/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2707107514
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/15/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2707107514
+frame:15 segment:8
+Cache Miss - Finish Times 60
+This Time Segmentation duration 462440000 nanoseconds
+The whole segmentation duration 26791001000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/15/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2367039618
+Entering /Lijing/Time/Space352819/15/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=461537155
+Entering /Lijing/Time/Space352819/15/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1744089724
+Entering /Lijing/Time/Space352819/15/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=982521452
+Entering /Lijing/Time/Space352819/15/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3377653321
+Entering /Lijing/Time/Space352819/15/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4266789087
+Entering /Lijing/Time/Space352819/15/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2264266539
+Entering /Lijing/Time/Space352819/18/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3148632611
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/18/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3148632611
+frame:18 segment:20
+Cache Miss - Finish Times 61
+This Time Segmentation duration 444192000 nanoseconds
+The whole segmentation duration 27235193000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/18/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2488703067
+Entering /Lijing/Time/Space352819/18/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=874517003
+Entering /Lijing/Time/Space352819/18/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=739239898
+Entering /Lijing/Time/Space352819/0/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1777435669
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/0/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1777435669
+frame:0 segment:4
+Cache Miss - Finish Times 62
+This Time Segmentation duration 439508000 nanoseconds
+The whole segmentation duration 27674701000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/0/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2828875415
+Entering /Lijing/Time/Space352819/0/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1744001413
+Entering /Lijing/Time/Space352819/0/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3955334673
+Entering /Lijing/Time/Space352819/13/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=256056603
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/13/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=256056603
+frame:13 segment:28
+Cache Miss - Finish Times 63
+This Time Segmentation duration 450140000 nanoseconds
+The whole segmentation duration 28124841000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/1/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3268000071
+Entering /Lijing/Time/Space352819/1/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2204476927
+Entering /Lijing/Time/Space352819/1/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=656967980
+Entering /Lijing/Time/Space352819/1/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3670796753
+Entering /Lijing/Time/Space352819/17/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4070605623
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/17/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4070605623
+frame:17 segment:8
+Cache Miss - Finish Times 64
+This Time Segmentation duration 451385000 nanoseconds
+The whole segmentation duration 28576226000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/17/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1769925329
+Entering /Lijing/Time/Space352819/17/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1454883183
+Entering /Lijing/Time/Space352819/17/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4043530182
+Entering /Lijing/Time/Space352819/6/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1017598024
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/6/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1017598024
+frame:6 segment:24
+Cache Miss - Finish Times 65
+This Time Segmentation duration 430450000 nanoseconds
+The whole segmentation duration 29006676000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/6/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1075315845
+Entering /Lijing/Time/Space352819/6/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1032436230
+Entering /Lijing/Time/Space352819/6/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1891585071
+Entering /Lijing/Time/Space352819/17/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2688178152
+Entering /Lijing/Time/Space352819/17/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3106512085
+Entering /Lijing/Time/Space352819/17/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3048028150
+Entering /Lijing/Time/Space352819/17/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2999596617
+Entering /Lijing/Time/Space352819/9/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2772660867
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/9/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2772660867
+frame:9 segment:20
+Cache Miss - Finish Times 66
+This Time Segmentation duration 437891000 nanoseconds
+The whole segmentation duration 29444567000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/9/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2655851201
+Entering /Lijing/Time/Space352819/9/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=882723391
+Entering /Lijing/Time/Space352819/9/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=135342179
+Entering /Lijing/Time/Space352819/19/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4026513461
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/19/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4026513461
+frame:19 segment:20
+Cache Miss - Finish Times 67
+This Time Segmentation duration 445276000 nanoseconds
+The whole segmentation duration 29889843000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/19/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2691866886
+Entering /Lijing/Time/Space352819/19/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4523735
+Entering /Lijing/Time/Space352819/19/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=222016458
+Entering /Lijing/Time/Space352819/4/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1892267734
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/4/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1892267734
+frame:4 segment:12
+Cache Miss - Finish Times 68
+This Time Segmentation duration 430307000 nanoseconds
+The whole segmentation duration 30320150000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/4/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1751221434
+Entering /Lijing/Time/Space352819/4/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1143591239
+Entering /Lijing/Time/Space352819/4/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=678893433
+Entering /Lijing/Time/Space352819/12/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2092544502
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/12/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2092544502
+frame:12 segment:20
+Cache Miss - Finish Times 69
+This Time Segmentation duration 424282000 nanoseconds
+The whole segmentation duration 30744432000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/12/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=331227151
+Entering /Lijing/Time/Space352819/12/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3321528153
+Entering /Lijing/Time/Space352819/12/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=811990615
+Entering /Lijing/Time/Space352819/5/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2975389283
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/5/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2975389283
+frame:5 segment:16
+Cache Miss - Finish Times 70
+This Time Segmentation duration 433627000 nanoseconds
+The whole segmentation duration 31178059000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/5/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=724736476
+Entering /Lijing/Time/Space352819/5/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2873070210
+Entering /Lijing/Time/Space352819/5/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2093776748
+Entering /Lijing/Time/Space352819/10/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2429167586
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/10/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2429167586
+frame:10 segment:20
+Cache Miss - Finish Times 71
+This Time Segmentation duration 451756000 nanoseconds
+The whole segmentation duration 31629815000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/10/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2303400924
+Entering /Lijing/Time/Space352819/10/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=641337572
+Entering /Lijing/Time/Space352819/10/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3963364920
+Entering /Lijing/Time/Space352819/1/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1674563894
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/1/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1674563894
+frame:1 segment:24
+Cache Miss - Finish Times 72
+This Time Segmentation duration 427276000 nanoseconds
+The whole segmentation duration 32057091000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/1/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1423252206
+Entering /Lijing/Time/Space352819/1/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=71495847
+Entering /Lijing/Time/Space352819/1/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2300864333
+Entering /Lijing/Time/Space352819/10/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3112272808
+Entering /Lijing/Time/Space352819/10/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=399517331
+Entering /Lijing/Time/Space352819/10/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3063749199
+Entering /Lijing/Time/Space352819/10/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4228004251
+Entering /Lijing/Time/Space352819/18/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1966313766
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/18/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1966313766
+frame:18 segment:24
+Cache Miss - Finish Times 73
+This Time Segmentation duration 419675000 nanoseconds
+The whole segmentation duration 32476766000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/18/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3501933774
+Entering /Lijing/Time/Space352819/18/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=817675627
+Entering /Lijing/Time/Space352819/18/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2587426381
+Entering /Lijing/Time/Space352819/4/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3804626245
+Entering /Lijing/Time/Space352819/4/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1403023727
+Entering /Lijing/Time/Space352819/4/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2903934685
+Entering /Lijing/Time/Space352819/4/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3912796909
+Entering /Lijing/Time/Space352819/4/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3967614398
+Entering /Lijing/Time/Space352819/4/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4133266927
+Entering /Lijing/Time/Space352819/4/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1958378414
+Entering /Lijing/Time/Space352819/4/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2873247969
+Entering /Lijing/Time/Space352819/8/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4145984686
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/8/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4145984686
+frame:8 segment:28
+Cache Miss - Finish Times 74
+This Time Segmentation duration 420801000 nanoseconds
+The whole segmentation duration 32897567000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/9/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1459954592
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/9/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1459954592
+frame:9 segment:24
+Cache Miss - Finish Times 75
+This Time Segmentation duration 428902000 nanoseconds
+The whole segmentation duration 33326469000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/9/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4014346211
+Entering /Lijing/Time/Space352819/9/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2629348150
+Entering /Lijing/Time/Space352819/9/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2346033256
+Entering /Lijing/Time/Space352819/4/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3205471080
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/4/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3205471080
+frame:4 segment:24
+Cache Miss - Finish Times 76
+This Time Segmentation duration 480600000 nanoseconds
+The whole segmentation duration 33807069000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/4/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4219500542
+Entering /Lijing/Time/Space352819/4/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3483507602
+Entering /Lijing/Time/Space352819/4/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1103872948
+Entering /Lijing/Time/Space352819/15/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4039413245
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/15/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4039413245
+frame:15 segment:16
+Cache Miss - Finish Times 77
+This Time Segmentation duration 429140000 nanoseconds
+The whole segmentation duration 34236209000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/15/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1983396769
+Entering /Lijing/Time/Space352819/15/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2062530035
+Entering /Lijing/Time/Space352819/15/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1113401317
+Entering /Lijing/Time/Space352819/2/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=133225438
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/2/%00%04?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=133225438
+frame:2 segment:4
+Cache Miss - Finish Times 78
+This Time Segmentation duration 426793000 nanoseconds
+The whole segmentation duration 34663002000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/2/%00%05?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3165039624
+Entering /Lijing/Time/Space352819/2/%00%06?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3829757452
+Entering /Lijing/Time/Space352819/2/%00%07?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3954302278
+Entering /Lijing/Time/Space352819/15/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4239332788
+Entering /Lijing/Time/Space352819/15/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3045826405
+Entering /Lijing/Time/Space352819/15/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2539439115
+Entering /Lijing/Time/Space352819/15/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3332049180
+Entering /Lijing/Time/Space352819/14/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1640360011
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/14/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1640360011
+frame:14 segment:12
+Cache Miss - Finish Times 79
+This Time Segmentation duration 443219000 nanoseconds
+The whole segmentation duration 35106221000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/14/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2559408767
+Entering /Lijing/Time/Space352819/14/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3950822203
+Entering /Lijing/Time/Space352819/14/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=338472602
+Entering /Lijing/Time/Space352819/19/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=552524901
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/19/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=552524901
+frame:19 segment:24
+Cache Miss - Finish Times 80
+This Time Segmentation duration 457935000 nanoseconds
+The whole segmentation duration 35564156000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/19/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3433726211
+Entering /Lijing/Time/Space352819/19/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=332530065
+Entering /Lijing/Time/Space352819/19/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4244234773
+Entering /Lijing/Time/Space352819/5/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3800082462
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/5/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3800082462
+frame:5 segment:20
+Cache Miss - Finish Times 81
+This Time Segmentation duration 435873000 nanoseconds
+The whole segmentation duration 36000029000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/5/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3404573442
+Entering /Lijing/Time/Space352819/5/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1703322427
+Entering /Lijing/Time/Space352819/5/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1151100222
+Entering /Lijing/Time/Space352819/6/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=276251011
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/6/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=276251011
+frame:6 segment:28
+Cache Miss - Finish Times 82
+This Time Segmentation duration 472809000 nanoseconds
+The whole segmentation duration 36472838000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/2/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3953541526
+Entering /Lijing/Time/Space352819/2/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3145423396
+Entering /Lijing/Time/Space352819/2/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3700183151
+Entering /Lijing/Time/Space352819/2/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3438054201
+Entering /Lijing/Time/Space352819/5/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=718615073
+Entering /Lijing/Time/Space352819/5/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=338763739
+Entering /Lijing/Time/Space352819/5/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2884718596
+Entering /Lijing/Time/Space352819/5/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1439238833
+Entering /Lijing/Time/Space352819/15/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2080681734
+Entering /Lijing/Time/Space352819/15/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3849142047
+Entering /Lijing/Time/Space352819/15/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=553435253
+Entering /Lijing/Time/Space352819/15/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1916534978
+Entering /Lijing/Time/Space352819/14/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2958437544
+Entering /Lijing/Time/Space352819/14/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=488576250
+Entering /Lijing/Time/Space352819/14/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1210336380
+Entering /Lijing/Time/Space352819/14/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=366791540
+Entering /Lijing/Time/Space352819/11/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3860209786
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/11/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3860209786
+frame:11 segment:16
+Cache Miss - Finish Times 83
+This Time Segmentation duration 432773000 nanoseconds
+The whole segmentation duration 36905611000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/11/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1813243959
+Entering /Lijing/Time/Space352819/11/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1240798503
+Entering /Lijing/Time/Space352819/11/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2527552608
+Entering /Lijing/Time/Space352819/9/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4005352206
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/9/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4005352206
+frame:9 segment:28
+Cache Miss - Finish Times 84
+This Time Segmentation duration 436811000 nanoseconds
+The whole segmentation duration 37342422000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/4/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2838751068
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/4/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2838751068
+frame:4 segment:28
+Cache Miss - Finish Times 85
+This Time Segmentation duration 465037000 nanoseconds
+The whole segmentation duration 37807459000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/19/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2478054253
+Entering /Lijing/Time/Space352819/19/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1056072413
+Entering /Lijing/Time/Space352819/5/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3926949312
+Entering /Lijing/Time/Space352819/5/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1297050215
+Entering /Lijing/Time/Space352819/0/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1635422249
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/0/%00%08?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1635422249
+frame:0 segment:8
+Cache Miss - Finish Times 86
+This Time Segmentation duration 481308000 nanoseconds
+The whole segmentation duration 38288767000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/0/%00%09?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1075727518
+Entering /Lijing/Time/Space352819/0/%00%0A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=219672592
+Entering /Lijing/Time/Space352819/0/%00%0B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1977071279
+Entering /Lijing/Time/Space352819/17/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1621382280
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/17/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1621382280
+frame:17 segment:16
+Cache Miss - Finish Times 87
+This Time Segmentation duration 443365000 nanoseconds
+The whole segmentation duration 38732132000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/17/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2392736056
+Entering /Lijing/Time/Space352819/17/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1243285281
+Entering /Lijing/Time/Space352819/17/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2386087616
+Entering /Lijing/Time/Space352819/10/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1358862093
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/10/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1358862093
+frame:10 segment:28
+Cache Miss - Finish Times 88
+This Time Segmentation duration 431008000 nanoseconds
+The whole segmentation duration 39163140000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/14/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=754030191
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/14/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=754030191
+frame:14 segment:20
+Cache Miss - Finish Times 89
+This Time Segmentation duration 460831000 nanoseconds
+The whole segmentation duration 39623971000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/14/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2453589685
+Entering /Lijing/Time/Space352819/14/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=605099975
+Entering /Lijing/Time/Space352819/14/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1447213565
+Entering /Lijing/Time/Space352819/11/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2877014753
+Entering /Lijing/Time/Space352819/11/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3405843669
+Entering /Lijing/Time/Space352819/11/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=228513929
+Entering /Lijing/Time/Space352819/11/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2629762271
+Entering /Lijing/Time/Space352819/16/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=739376468
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/16/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=739376468
+frame:16 segment:16
+Cache Miss - Finish Times 90
+This Time Segmentation duration 443603000 nanoseconds
+The whole segmentation duration 40067574000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/16/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1643848187
+Entering /Lijing/Time/Space352819/16/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2684434119
+Entering /Lijing/Time/Space352819/16/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=838803003
+Entering /Lijing/Time/Space352819/17/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1247280016
+Entering /Lijing/Time/Space352819/17/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4261843407
+Entering /Lijing/Time/Space352819/17/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2449341067
+Entering /Lijing/Time/Space352819/17/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3331488764
+Entering /Lijing/Time/Space352819/1/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3130753777
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/1/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3130753777
+frame:1 segment:28
+Cache Miss - Finish Times 91
+This Time Segmentation duration 445541000 nanoseconds
+The whole segmentation duration 40513115000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/3/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1683267380
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/3/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1683267380
+frame:3 segment:16
+Cache Miss - Finish Times 92
+This Time Segmentation duration 472440000 nanoseconds
+The whole segmentation duration 40985555000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/3/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1021390374
+Entering /Lijing/Time/Space352819/3/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3938966900
+Entering /Lijing/Time/Space352819/3/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4021966791
+Entering /Lijing/Time/Space352819/18/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1687664892
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/18/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1687664892
+frame:18 segment:28
+Cache Miss - Finish Times 93
+This Time Segmentation duration 496225000 nanoseconds
+The whole segmentation duration 41481780000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/3/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=761944756
+Entering /Lijing/Time/Space352819/3/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1056205657
+Entering /Lijing/Time/Space352819/3/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1389924777
+Entering /Lijing/Time/Space352819/3/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=879060514
+Entering /Lijing/Time/Space352819/17/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3858753341
+Entering /Lijing/Time/Space352819/17/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=403338712
+Entering /Lijing/Time/Space352819/17/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=444775451
+Entering /Lijing/Time/Space352819/17/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1587439414
+Entering /Lijing/Time/Space352819/15/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=632844172
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/15/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=632844172
+frame:15 segment:28
+Cache Miss - Finish Times 94
+This Time Segmentation duration 545661000 nanoseconds
+The whole segmentation duration 42027441000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/17/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=987844531
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/17/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=987844531
+frame:17 segment:28
+Cache Miss - Finish Times 95
+This Time Segmentation duration 516193000 nanoseconds
+The whole segmentation duration 42543634000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/12/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=724100379
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/12/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=724100379
+frame:12 segment:24
+Cache Miss - Finish Times 96
+This Time Segmentation duration 478215000 nanoseconds
+The whole segmentation duration 43021849000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/12/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1998914039
+Entering /Lijing/Time/Space352819/12/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3993181560
+Entering /Lijing/Time/Space352819/12/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1462290218
+Entering /Lijing/Time/Space352819/11/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1184017709
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/11/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1184017709
+frame:11 segment:24
+Cache Miss - Finish Times 97
+This Time Segmentation duration 469706000 nanoseconds
+The whole segmentation duration 43491555000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/11/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3486198103
+Entering /Lijing/Time/Space352819/11/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2603017532
+Entering /Lijing/Time/Space352819/11/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=93840705
+Entering /Lijing/Time/Space352819/0/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=808159032
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/0/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=808159032
+frame:0 segment:12
+Cache Miss - Finish Times 98
+This Time Segmentation duration 469540000 nanoseconds
+The whole segmentation duration 43961095000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/0/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1935295258
+Entering /Lijing/Time/Space352819/0/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2297929234
+Entering /Lijing/Time/Space352819/0/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3133402344
+Entering /Lijing/Time/Space352819/16/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3376541332
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/16/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3376541332
+frame:16 segment:20
+Cache Miss - Finish Times 99
+This Time Segmentation duration 474874000 nanoseconds
+The whole segmentation duration 44435969000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/16/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1033442093
+Entering /Lijing/Time/Space352819/16/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3466755824
+Entering /Lijing/Time/Space352819/16/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1784496682
+Entering /Lijing/Time/Space352819/11/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=709210342
+Entering /Lijing/Time/Space352819/11/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2547153170
+Entering /Lijing/Time/Space352819/3/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1463288130
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/3/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1463288130
+frame:3 segment:24
+Cache Miss - Finish Times 100
+This Time Segmentation duration 470702000 nanoseconds
+The whole segmentation duration 44906671000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/3/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1118923250
+Entering /Lijing/Time/Space352819/3/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1762314164
+Entering /Lijing/Time/Space352819/3/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3330294484
+Entering /Lijing/Time/Space352819/2/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2735721787
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/2/%00%0C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2735721787
+frame:2 segment:12
+Cache Miss - Finish Times 101
+This Time Segmentation duration 471482000 nanoseconds
+The whole segmentation duration 45378153000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/2/%00%0D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4242886747
+Entering /Lijing/Time/Space352819/2/%00%0E?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1606214492
+Entering /Lijing/Time/Space352819/2/%00%0F?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=887865033
+Entering /Lijing/Time/Space352819/12/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=985944515
+Entering /Lijing/Time/Space352819/12/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1995141988
+Entering /Lijing/Time/Space352819/14/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2536092682
+**************************************************************
+Cache Miss - Start /Lijing/Time/Space352819/14/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2536092682
+frame:14 segment:24
+Cache Miss - Finish Times 102
+This Time Segmentation duration 473863000 nanoseconds
+The whole segmentation duration 45852016000 nanoseconds
+**************************************************************
+Entering /Lijing/Time/Space352819/14/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1560221287
+Entering /Lijing/Time/Space352819/14/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2146599384
+Entering /Lijing/Time/Space352819/14/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2692907349
+Entering /Lijing/Time/Space352819/0/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1920626574
+Entering /Lijing/Time/Space352819/0/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2789010578
+Entering /Lijing/Time/Space352819/0/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=96706549
+Entering /Lijing/Time/Space352819/0/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1997720869
+Entering /Lijing/Time/Space352819/3/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4243908302
+Entering /Lijing/Time/Space352819/3/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3860712981
+Entering /Lijing/Time/Space352819/0/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2684708493
+Entering /Lijing/Time/Space352819/0/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=611726009
+Entering /Lijing/Time/Space352819/0/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1630073500
+Entering /Lijing/Time/Space352819/0/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1740714999
+Entering /Lijing/Time/Space352819/16/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=134342097
+Entering /Lijing/Time/Space352819/16/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=612099006
+Entering /Lijing/Time/Space352819/16/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1947335166
+Entering /Lijing/Time/Space352819/16/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=339330716
+Entering /Lijing/Time/Space352819/16/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4242826660
+Entering /Lijing/Time/Space352819/16/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3600090681
+Entering /Lijing/Time/Space352819/0/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3879940188
+Entering /Lijing/Time/Space352819/0/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=649120880
+Entering /Lijing/Time/Space352819/0/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2065809833
+Entering /Lijing/Time/Space352819/0/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=2237794823
+Entering /Lijing/Time/Space352819/14/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=347881211
+Entering /Lijing/Time/Space352819/14/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=631691463
+Entering /Lijing/Time/Space352819/0/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4086969306
+Entering /Lijing/Time/Space352819/0/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3957730849
+Entering /Lijing/Time/Space352819/2/%00%10?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=671295120
+Entering /Lijing/Time/Space352819/2/%00%11?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3553984961
+Entering /Lijing/Time/Space352819/2/%00%12?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1506086647
+Entering /Lijing/Time/Space352819/2/%00%13?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3235105628
+Entering /Lijing/Time/Space352819/2/%00%14?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3350243629
+Entering /Lijing/Time/Space352819/2/%00%15?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1056857246
+Entering /Lijing/Time/Space352819/2/%00%16?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=4012365215
+Entering /Lijing/Time/Space352819/2/%00%17?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=229536383
+Entering /Lijing/Time/Space352819/2/%00%18?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1469674631
+Entering /Lijing/Time/Space352819/2/%00%19?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=114752265
+Entering /Lijing/Time/Space352819/2/%00%1A?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1170947527
+Entering /Lijing/Time/Space352819/2/%00%1B?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1012284810
+Entering /Lijing/Time/Space352819/2/%00%1C?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=3499310549
+Entering /Lijing/Time/Space352819/2/%00%1D?ndn.ChildSelector=0&ndn.MustBeFresh=1&ndn.Scope=2&ndn.InterestLifetime=20000&ndn.Nonce=1930151464

@@ -1,0 +1,5 @@
+10
+GOT 51450 BYTES
+14
+libc++abi.dylib: terminating with uncaught exception of type ndn::Transport::Error: error while receiving data from socket (End of file)
+om socket (End of file)
