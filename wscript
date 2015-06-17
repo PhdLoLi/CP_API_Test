@@ -81,6 +81,11 @@ def build(bld):
     use='NDN_CXX',
     )
 
+    bld(target="test_speed_consumer",
+    features=["cxx", "cxxprogram"],
+    source= "src/test_speed_consumer.cpp",
+    use='BOOST NDN_CXX PTHREAD',
+    )
     # Tests
 #    bld.recurse('tests')
 

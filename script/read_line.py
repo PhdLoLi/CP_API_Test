@@ -84,10 +84,10 @@ for i in range(5) :
     size *= 2
 
 #pl.title('Space and Time Relationship')# give plot a title
-pl.xlabel('Send buffer size (segments)')# make axis labels
-pl.ylabel('Computation time (seconds)')
+pl.xlabel('In-memory storage (packets)')# make axis labels
+pl.ylabel("Producer's computational overhead (seconds)")
 
-pl.legend(plots, win_sizes)
+pl.legend(plots, win_sizes, title="Amount of Interest pipelining")
 #pl.legend([plot1, plot2, plot3, plot4, plot5], ['window size 1', 'window size 2', 'window size 4', 'window size 8', 'window size 16'])
 
 if os.path.isdir('../plots/plot_%s'%tag): 

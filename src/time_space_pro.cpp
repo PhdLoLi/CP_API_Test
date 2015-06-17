@@ -102,10 +102,13 @@ private:
 int main(int argc, char** argv) {
   int buf_size = 1;
   std::string suffix = "1";
+  int fast_signing_tag = 0;
   if (argc > 2) {
     buf_size = atoi(argv[1]);
     suffix = argv[2];
   }
+  if (argc > 3)
+    fast_signing_tag = atoi(argv[3]);
 
   Signer signer;
   Performance performance;
@@ -113,7 +116,8 @@ int main(int argc, char** argv) {
   Name sampleName(PREFIX_NAME + suffix);
  
   Producer p(sampleName);
-//  p.setContextOption(FAST_SIGNING, true);
+  if (fast_signing_tag == 1)
+//    p.setContextOption(FAST_SIGNING, true);
   p.setContextOption(SND_BUF_SIZE, buf_size);
 //  p.setContextOption(DATA_FRESHNESS, 30);
   

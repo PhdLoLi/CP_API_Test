@@ -7,6 +7,7 @@ import os
 import random
 from datetime import datetime, date, time
 
+fast_signing_tag = 1
 tag = datetime.now().strftime("%m-%d-%H:%M")
 if os.path.isdir('../results/result_%s'%tag): 
     pass 
@@ -19,7 +20,7 @@ while buf_size >= 1 :
     while win_size >= 1 : 
         ran = random.randint(1, 1000000) 
 
-        os.system('nohup ../build/time_space_pro %s %s > ../results/result_%s/real%s_buf%s_win%s_pro &'%(buf_size, ran, tag, ran, buf_size, win_size))
+        os.system('nohup ../build/time_space_pro %s %s %s > ../results/result_%s/real%s_buf%s_win%s_pro &'%(buf_size, ran, fast_signing_tag, tag, ran, buf_size, win_size))
         os.system('../build/ts_real_win_con %s %s > ../results/result_%s/real%s_buf%s_win%s_con'%(ran, win_size, tag, ran, buf_size, win_size))
         
         with open('../results/result_%s/real%s_buf%s_win%s_pro'%(tag, ran, buf_size, win_size), "rb") as f:
