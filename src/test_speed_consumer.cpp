@@ -86,7 +86,7 @@ namespace ndn {
     std::cout << "  " << std::endl;
     std::cout << "---------- OVER ----------  " << seconds <<" seconds" << std::endl;
 
-    return;
+    exit(num);
   }
 
   void consume_frame(std::string type, Consumer *sampleConsumer, int frameNumber) 
@@ -111,7 +111,6 @@ namespace ndn {
 
     }
     sig_int(0);
-    pthread_exit(NULL);
   }
 
   int
